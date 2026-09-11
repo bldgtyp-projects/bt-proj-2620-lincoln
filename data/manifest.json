@@ -1,9 +1,55 @@
 {
-  "status": "pending",
-  "project": {
-    "slug": "0000-example-report",
-    "name": "Example Passive House Report"
-  },
-  "schema_version": "0.1.0",
-  "variants": []
+  "schema_version": "1.0.0",
+  "phpp_version": "10.6",
+  "generated_at": "2026-09-11T16:12:36.853102Z",
+  "generator": "btwr@0.0.1",
+  "status": "ok",
+  "variants": [
+    {
+      "id": "code_min",
+      "name": "Code Min",
+      "order": 0,
+      "color": "auto",
+      "recommended": false,
+      "source_column": "G"
+    },
+    {
+      "id": "better",
+      "name": "Better",
+      "order": 1,
+      "color": "auto",
+      "recommended": false,
+      "source_column": "H"
+    },
+    {
+      "id": "even_better",
+      "name": "Even Better",
+      "order": 2,
+      "color": "auto",
+      "recommended": false,
+      "source_column": "I"
+    },
+    {
+      "id": "so_good",
+      "name": "So Good",
+      "order": 3,
+      "color": "auto",
+      "recommended": false,
+      "source_column": "J"
+    },
+    {
+      "id": "best",
+      "name": "Best",
+      "order": 4,
+      "color": "auto",
+      "recommended": true,
+      "source_column": "K"
+    }
+  ],
+  "recommended_variant_id": "best",
+  "source_workbook": {
+    "path": "/Users/johnmitchell/Dropbox/bldgtyp/2620 {IA} 127 Lincoln Place/07_PHPP/2620 127 Lincoln Place.xlsx",
+    "sha256": "2fe432dd099fcf8e767cbbd656922e8d1aeadad576dbc6b39a7989ea6612c989",
+    "size_bytes": 13008646
+  }
 }

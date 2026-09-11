@@ -1,0 +1,876 @@
+section,field_id,phpp_label,variant_id,variant_name,datatype,units,value,excel_row
+geometry,geometry.tfa,TFA,code_min,Code Min,TFA,m2,366.86328925,316
+geometry,geometry.tfa,TFA,better,Better,TFA,m2,366.86328925,316
+geometry,geometry.tfa,TFA,even_better,Even Better,TFA,m2,366.86328925,316
+geometry,geometry.tfa,TFA,so_good,So Good,TFA,m2,366.86328925,316
+geometry,geometry.tfa,TFA,best,Best,TFA,m2,366.86328925,316
+geometry,geometry.vv,VV,code_min,Code Min,VV,m3,917.158223124,317
+geometry,geometry.vv,VV,better,Better,VV,m3,917.158223124,317
+geometry,geometry.vv,VV,even_better,Even Better,VV,m3,917.158223124,317
+geometry,geometry.vv,VV,so_good,So Good,VV,m3,917.158223124,317
+geometry,geometry.vv,VV,best,Best,VV,m3,917.158223124,317
+geometry,geometry.vn50,Vn50,code_min,Code Min,Vn50,m3,1107.62797403,318
+geometry,geometry.vn50,Vn50,better,Better,Vn50,m3,1107.62797403,318
+geometry,geometry.vn50,Vn50,even_better,Even Better,Vn50,m3,1107.62797403,318
+geometry,geometry.vn50,Vn50,so_good,So Good,Vn50,m3,1107.62797403,318
+geometry,geometry.vn50,Vn50,best,Best,Vn50,m3,1107.62797403,318
+geometry,geometry.building_envelope_area,Building Envelope Area,code_min,Code Min,Building Envelope Area,m2,480.22931822,319
+geometry,geometry.building_envelope_area,Building Envelope Area,better,Better,Building Envelope Area,m2,480.22931822,319
+geometry,geometry.building_envelope_area,Building Envelope Area,even_better,Even Better,Building Envelope Area,m2,480.22931822,319
+geometry,geometry.building_envelope_area,Building Envelope Area,so_good,So Good,Building Envelope Area,m2,480.22931822,319
+geometry,geometry.building_envelope_area,Building Envelope Area,best,Best,Building Envelope Area,m2,480.22931822,319
+geometry,geometry.gross_volume,Gross Volume,code_min,Code Min,Gross Volume,m3,1439.91636624,320
+geometry,geometry.gross_volume,Gross Volume,better,Better,Gross Volume,m3,1439.91636624,320
+geometry,geometry.gross_volume,Gross Volume,even_better,Even Better,Gross Volume,m3,1439.91636624,320
+geometry,geometry.gross_volume,Gross Volume,so_good,So Good,Gross Volume,m3,1439.91636624,320
+geometry,geometry.gross_volume,Gross Volume,best,Best,Gross Volume,m3,1439.91636624,320
+geometry,geometry.window_area_north,Window Area (North),code_min,Code Min,Window Area (North),m2,28.0059093384,321
+geometry,geometry.window_area_north,Window Area (North),better,Better,Window Area (North),m2,28.0059093384,321
+geometry,geometry.window_area_north,Window Area (North),even_better,Even Better,Window Area (North),m2,28.0059093384,321
+geometry,geometry.window_area_north,Window Area (North),so_good,So Good,Window Area (North),m2,28.0059093384,321
+geometry,geometry.window_area_north,Window Area (North),best,Best,Window Area (North),m2,28.0059093384,321
+geometry,geometry.window_area_east,Window Area (East),code_min,Code Min,Window Area (East),m2,0,322
+geometry,geometry.window_area_east,Window Area (East),better,Better,Window Area (East),m2,0,322
+geometry,geometry.window_area_east,Window Area (East),even_better,Even Better,Window Area (East),m2,0,322
+geometry,geometry.window_area_east,Window Area (East),so_good,So Good,Window Area (East),m2,0,322
+geometry,geometry.window_area_east,Window Area (East),best,Best,Window Area (East),m2,0,322
+geometry,geometry.window_area_south,Window Area (South),code_min,Code Min,Window Area (South),m2,24.8864453602,323
+geometry,geometry.window_area_south,Window Area (South),better,Better,Window Area (South),m2,24.8864453602,323
+geometry,geometry.window_area_south,Window Area (South),even_better,Even Better,Window Area (South),m2,24.8864453602,323
+geometry,geometry.window_area_south,Window Area (South),so_good,So Good,Window Area (South),m2,24.8864453602,323
+geometry,geometry.window_area_south,Window Area (South),best,Best,Window Area (South),m2,24.8864453602,323
+geometry,geometry.window_area_west,Window Area (West),code_min,Code Min,Window Area (West),m2,11.6683408686,324
+geometry,geometry.window_area_west,Window Area (West),better,Better,Window Area (West),m2,11.6683408686,324
+geometry,geometry.window_area_west,Window Area (West),even_better,Even Better,Window Area (West),m2,11.6683408686,324
+geometry,geometry.window_area_west,Window Area (West),so_good,So Good,Window Area (West),m2,11.6683408686,324
+geometry,geometry.window_area_west,Window Area (West),best,Best,Window Area (West),m2,11.6683408686,324
+geometry,geometry.window_area_horiz,Window Area (Horiz),code_min,Code Min,Window Area (Horiz),m2,0,325
+geometry,geometry.window_area_horiz,Window Area (Horiz),better,Better,Window Area (Horiz),m2,0,325
+geometry,geometry.window_area_horiz,Window Area (Horiz),even_better,Even Better,Window Area (Horiz),m2,0,325
+geometry,geometry.window_area_horiz,Window Area (Horiz),so_good,So Good,Window Area (Horiz),m2,0,325
+geometry,geometry.window_area_horiz,Window Area (Horiz),best,Best,Window Area (Horiz),m2,0,325
+envelope,envelope.floor_bg,BG Floor,code_min,Code Min,BG Floor,hr-ft2-F/Btu,5,328
+envelope,envelope.floor_bg,BG Floor,better,Better,BG Floor,hr-ft2-F/Btu,5,328
+envelope,envelope.floor_bg,BG Floor,even_better,Even Better,BG Floor,hr-ft2-F/Btu,5,328
+envelope,envelope.floor_bg,BG Floor,so_good,So Good,BG Floor,hr-ft2-F/Btu,5,328
+envelope,envelope.floor_bg,BG Floor,best,Best,BG Floor,hr-ft2-F/Btu,5,328
+envelope,envelope.wall_bg,BG Wall,code_min,Code Min,BG Wall,hr-ft2-F/Btu,17.9,329
+envelope,envelope.wall_bg,BG Wall,better,Better,BG Wall,hr-ft2-F/Btu,17.9,329
+envelope,envelope.wall_bg,BG Wall,even_better,Even Better,BG Wall,hr-ft2-F/Btu,17.9,329
+envelope,envelope.wall_bg,BG Wall,so_good,So Good,BG Wall,hr-ft2-F/Btu,17.9,329
+envelope,envelope.wall_bg,BG Wall,best,Best,BG Wall,hr-ft2-F/Btu,17.9,329
+envelope,envelope.party_wall,Basement Floor,code_min,Code Min,Basement Floor,hr-ft2-F/Btu,30,330
+envelope,envelope.party_wall,Basement Floor,better,Better,Basement Floor,hr-ft2-F/Btu,30,330
+envelope,envelope.party_wall,Basement Floor,even_better,Even Better,Basement Floor,hr-ft2-F/Btu,30,330
+envelope,envelope.party_wall,Basement Floor,so_good,So Good,Basement Floor,hr-ft2-F/Btu,30,330
+envelope,envelope.party_wall,Basement Floor,best,Best,Basement Floor,hr-ft2-F/Btu,30,330
+envelope,envelope.wall_ag,AG Wall,code_min,Code Min,AG Wall,hr-ft2-F/Btu,22.2,331
+envelope,envelope.wall_ag,AG Wall,better,Better,AG Wall,hr-ft2-F/Btu,22.2,331
+envelope,envelope.wall_ag,AG Wall,even_better,Even Better,AG Wall,hr-ft2-F/Btu,22.2,331
+envelope,envelope.wall_ag,AG Wall,so_good,So Good,AG Wall,hr-ft2-F/Btu,22.2,331
+envelope,envelope.wall_ag,AG Wall,best,Best,AG Wall,hr-ft2-F/Btu,22.2,331
+envelope,envelope.roof,Roof,code_min,Code Min,Roof,hr-ft2-F/Btu,38.5,332
+envelope,envelope.roof,Roof,better,Better,Roof,hr-ft2-F/Btu,38.5,332
+envelope,envelope.roof,Roof,even_better,Even Better,Roof,hr-ft2-F/Btu,38.5,332
+envelope,envelope.roof,Roof,so_good,So Good,Roof,hr-ft2-F/Btu,38.5,332
+envelope,envelope.roof,Roof,best,Best,Roof,hr-ft2-F/Btu,38.5,332
+envelope,envelope.assembly_06,Party Wall,code_min,Code Min,Party Wall,hr-ft2-F/Btu,10,333
+envelope,envelope.assembly_06,Party Wall,better,Better,Party Wall,hr-ft2-F/Btu,10,333
+envelope,envelope.assembly_06,Party Wall,even_better,Even Better,Party Wall,hr-ft2-F/Btu,10,333
+envelope,envelope.assembly_06,Party Wall,so_good,So Good,Party Wall,hr-ft2-F/Btu,10,333
+envelope,envelope.assembly_06,Party Wall,best,Best,Party Wall,hr-ft2-F/Btu,10,333
+envelope,envelope.thermal_bridge_allowance_increase,Thermal Bridge Allowance (% increase),code_min,Code Min,Thermal Bridge Allowance (% increase),% Increase,0.2,343
+envelope,envelope.thermal_bridge_allowance_increase,Thermal Bridge Allowance (% increase),better,Better,Thermal Bridge Allowance (% increase),% Increase,0.2,343
+envelope,envelope.thermal_bridge_allowance_increase,Thermal Bridge Allowance (% increase),even_better,Even Better,Thermal Bridge Allowance (% increase),% Increase,0.2,343
+envelope,envelope.thermal_bridge_allowance_increase,Thermal Bridge Allowance (% increase),so_good,So Good,Thermal Bridge Allowance (% increase),% Increase,0.2,343
+envelope,envelope.thermal_bridge_allowance_increase,Thermal Bridge Allowance (% increase),best,Best,Thermal Bridge Allowance (% increase),% Increase,0.2,343
+envelope,envelope.volumetric_air_leakage_rate_n50,Volumetric Air Leakage Rate (n50),code_min,Code Min,Volumetric Air Leakage Rate (n50),ACH@50,3,344
+envelope,envelope.volumetric_air_leakage_rate_n50,Volumetric Air Leakage Rate (n50),better,Better,Volumetric Air Leakage Rate (n50),ACH@50,3,344
+envelope,envelope.volumetric_air_leakage_rate_n50,Volumetric Air Leakage Rate (n50),even_better,Even Better,Volumetric Air Leakage Rate (n50),ACH@50,3,344
+envelope,envelope.volumetric_air_leakage_rate_n50,Volumetric Air Leakage Rate (n50),so_good,So Good,Volumetric Air Leakage Rate (n50),ACH@50,3,344
+envelope,envelope.volumetric_air_leakage_rate_n50,Volumetric Air Leakage Rate (n50),best,Best,Volumetric Air Leakage Rate (n50),ACH@50,3,344
+envelope,envelope.envelope_air_leakage_rate_q50,Envelope Air Leakage Rate (q50),code_min,Code Min,Envelope Air Leakage Rate (q50),m3/hr-m2,6.91936913475,345
+envelope,envelope.envelope_air_leakage_rate_q50,Envelope Air Leakage Rate (q50),better,Better,Envelope Air Leakage Rate (q50),m3/hr-m2,6.91936913475,345
+envelope,envelope.envelope_air_leakage_rate_q50,Envelope Air Leakage Rate (q50),even_better,Even Better,Envelope Air Leakage Rate (q50),m3/hr-m2,6.91936913475,345
+envelope,envelope.envelope_air_leakage_rate_q50,Envelope Air Leakage Rate (q50),so_good,So Good,Envelope Air Leakage Rate (q50),m3/hr-m2,6.91936913475,345
+envelope,envelope.envelope_air_leakage_rate_q50,Envelope Air Leakage Rate (q50),best,Best,Envelope Air Leakage Rate (q50),m3/hr-m2,6.91936913475,345
+envelope,envelope.window_u_value,Window U-value,code_min,Code Min,Window U-value (Installed),Btu/hr-ft2-F,0.299686771963,346
+envelope,envelope.window_u_value,Window U-value,better,Better,Window U-value (Installed),Btu/hr-ft2-F,0.299686771963,346
+envelope,envelope.window_u_value,Window U-value,even_better,Even Better,Window U-value (Installed),Btu/hr-ft2-F,0.299686771963,346
+envelope,envelope.window_u_value,Window U-value,so_good,So Good,Window U-value (Installed),Btu/hr-ft2-F,0.299686771963,346
+envelope,envelope.window_u_value,Window U-value,best,Best,Window U-value (Installed),Btu/hr-ft2-F,0.299686771963,346
+envelope,envelope.window_shgc,Window SHGC,code_min,Code Min,Window SHGC,-,0.4,347
+envelope,envelope.window_shgc,Window SHGC,better,Better,Window SHGC,-,0.4,347
+envelope,envelope.window_shgc,Window SHGC,even_better,Even Better,Window SHGC,-,0.4,347
+envelope,envelope.window_shgc,Window SHGC,so_good,So Good,Window SHGC,-,0.4,347
+envelope,envelope.window_shgc,Window SHGC,best,Best,Window SHGC,-,0.4,347
+systems,systems.ventilation_system,Ventilation System,code_min,Code Min,Ventilation System,,2-Extract air unit,350
+systems,systems.ventilation_system,Ventilation System,better,Better,Ventilation System,,2-Extract air unit,350
+systems,systems.ventilation_system,Ventilation System,even_better,Even Better,Ventilation System,,2-Extract air unit,350
+systems,systems.ventilation_system,Ventilation System,so_good,So Good,Ventilation System,,2-Extract air unit,350
+systems,systems.ventilation_system,Ventilation System,best,Best,Ventilation System,,2-Extract air unit,350
+systems,systems.ventilation_unit_hr_efficiency,Ventilation Unit HR Efficiency,code_min,Code Min,Ventilation Unit HR Efficiency,%,,351
+systems,systems.ventilation_unit_hr_efficiency,Ventilation Unit HR Efficiency,better,Better,Ventilation Unit HR Efficiency,%,,351
+systems,systems.ventilation_unit_hr_efficiency,Ventilation Unit HR Efficiency,even_better,Even Better,Ventilation Unit HR Efficiency,%,,351
+systems,systems.ventilation_unit_hr_efficiency,Ventilation Unit HR Efficiency,so_good,So Good,Ventilation Unit HR Efficiency,%,,351
+systems,systems.ventilation_unit_hr_efficiency,Ventilation Unit HR Efficiency,best,Best,Ventilation Unit HR Efficiency,%,,351
+systems,systems.ventilation_unit_er_efficiency,Ventilation Unit ER Efficiency,code_min,Code Min,Ventilation Unit ER Efficiency,%,,352
+systems,systems.ventilation_unit_er_efficiency,Ventilation Unit ER Efficiency,better,Better,Ventilation Unit ER Efficiency,%,,352
+systems,systems.ventilation_unit_er_efficiency,Ventilation Unit ER Efficiency,even_better,Even Better,Ventilation Unit ER Efficiency,%,,352
+systems,systems.ventilation_unit_er_efficiency,Ventilation Unit ER Efficiency,so_good,So Good,Ventilation Unit ER Efficiency,%,,352
+systems,systems.ventilation_unit_er_efficiency,Ventilation Unit ER Efficiency,best,Best,Ventilation Unit ER Efficiency,%,,352
+systems,systems.system_hr_efficiency,System HR Efficiency,code_min,Code Min,System HR Efficiency,%,,353
+systems,systems.system_hr_efficiency,System HR Efficiency,better,Better,System HR Efficiency,%,,353
+systems,systems.system_hr_efficiency,System HR Efficiency,even_better,Even Better,System HR Efficiency,%,,353
+systems,systems.system_hr_efficiency,System HR Efficiency,so_good,So Good,System HR Efficiency,%,,353
+systems,systems.system_hr_efficiency,System HR Efficiency,best,Best,System HR Efficiency,%,,353
+systems,systems.cold_air_duct_length_ea,Cold Air Duct Length (ea),code_min,Code Min,Cold Air Duct Length (ea),m,5,354
+systems,systems.cold_air_duct_length_ea,Cold Air Duct Length (ea),better,Better,Cold Air Duct Length (ea),m,5,354
+systems,systems.cold_air_duct_length_ea,Cold Air Duct Length (ea),even_better,Even Better,Cold Air Duct Length (ea),m,5,354
+systems,systems.cold_air_duct_length_ea,Cold Air Duct Length (ea),so_good,So Good,Cold Air Duct Length (ea),m,5,354
+systems,systems.cold_air_duct_length_ea,Cold Air Duct Length (ea),best,Best,Cold Air Duct Length (ea),m,5,354
+systems,systems.cold_air_duct_insulation_thickness,Cold Air Duct Insulation Thickness,code_min,Code Min,Cold Air Duct Insulation Thickness,mm,52,355
+systems,systems.cold_air_duct_insulation_thickness,Cold Air Duct Insulation Thickness,better,Better,Cold Air Duct Insulation Thickness,mm,52,355
+systems,systems.cold_air_duct_insulation_thickness,Cold Air Duct Insulation Thickness,even_better,Even Better,Cold Air Duct Insulation Thickness,mm,52,355
+systems,systems.cold_air_duct_insulation_thickness,Cold Air Duct Insulation Thickness,so_good,So Good,Cold Air Duct Insulation Thickness,mm,52,355
+systems,systems.cold_air_duct_insulation_thickness,Cold Air Duct Insulation Thickness,best,Best,Cold Air Duct Insulation Thickness,mm,52,355
+systems,systems.heating_system,Heating System,code_min,Code Min,Heating System,,Heat pump(s),356
+systems,systems.heating_system,Heating System,better,Better,Heating System,,Heat pump(s),356
+systems,systems.heating_system,Heating System,even_better,Even Better,Heating System,,Heat pump(s),356
+systems,systems.heating_system,Heating System,so_good,So Good,Heating System,,Heat pump(s),356
+systems,systems.heating_system,Heating System,best,Best,Heating System,,Heat pump(s),356
+systems,systems.cooling_system,Cooling System,code_min,Code Min,Cooling System,,Elec. Heat Pump,357
+systems,systems.cooling_system,Cooling System,better,Better,Cooling System,,Elec. Heat Pump,357
+systems,systems.cooling_system,Cooling System,even_better,Even Better,Cooling System,,Elec. Heat Pump,357
+systems,systems.cooling_system,Cooling System,so_good,So Good,Cooling System,,Elec. Heat Pump,357
+systems,systems.cooling_system,Cooling System,best,Best,Cooling System,,Elec. Heat Pump,357
+systems,systems.dhw_system,DHW System,code_min,Code Min,DHW System,,Heat pump(s),358
+systems,systems.dhw_system,DHW System,better,Better,DHW System,,Heat pump(s),358
+systems,systems.dhw_system,DHW System,even_better,Even Better,DHW System,,Heat pump(s),358
+systems,systems.dhw_system,DHW System,so_good,So Good,DHW System,,Heat pump(s),358
+systems,systems.dhw_system,DHW System,best,Best,DHW System,,Heat pump(s),358
+certification_limits,certification_limits.heat_demand_limit,Heat Demand Limit,code_min,Code Min,Heat Demand Limit,kWh/m2,20,363
+certification_limits,certification_limits.heat_demand_limit,Heat Demand Limit,better,Better,Heat Demand Limit,kWh/m2,20,363
+certification_limits,certification_limits.heat_demand_limit,Heat Demand Limit,even_better,Even Better,Heat Demand Limit,kWh/m2,20,363
+certification_limits,certification_limits.heat_demand_limit,Heat Demand Limit,so_good,So Good,Heat Demand Limit,kWh/m2,20,363
+certification_limits,certification_limits.heat_demand_limit,Heat Demand Limit,best,Best,Heat Demand Limit,kWh/m2,20,363
+certification_limits,certification_limits.sensible_cooling_demand_limit,Sensible Cooling Demand Limit,code_min,Code Min,Sensible Cooling Demand Limit,kWh/m2,15,364
+certification_limits,certification_limits.sensible_cooling_demand_limit,Sensible Cooling Demand Limit,better,Better,Sensible Cooling Demand Limit,kWh/m2,15,364
+certification_limits,certification_limits.sensible_cooling_demand_limit,Sensible Cooling Demand Limit,even_better,Even Better,Sensible Cooling Demand Limit,kWh/m2,15,364
+certification_limits,certification_limits.sensible_cooling_demand_limit,Sensible Cooling Demand Limit,so_good,So Good,Sensible Cooling Demand Limit,kWh/m2,15,364
+certification_limits,certification_limits.sensible_cooling_demand_limit,Sensible Cooling Demand Limit,best,Best,Sensible Cooling Demand Limit,kWh/m2,15,364
+certification_limits,certification_limits.latent_cooling_demand_limit,Latent Cooling Demand Limit,code_min,Code Min,Latent Cooling Demand Limit,kWh/m2,1,365
+certification_limits,certification_limits.latent_cooling_demand_limit,Latent Cooling Demand Limit,better,Better,Latent Cooling Demand Limit,kWh/m2,1,365
+certification_limits,certification_limits.latent_cooling_demand_limit,Latent Cooling Demand Limit,even_better,Even Better,Latent Cooling Demand Limit,kWh/m2,1,365
+certification_limits,certification_limits.latent_cooling_demand_limit,Latent Cooling Demand Limit,so_good,So Good,Latent Cooling Demand Limit,kWh/m2,1,365
+certification_limits,certification_limits.latent_cooling_demand_limit,Latent Cooling Demand Limit,best,Best,Latent Cooling Demand Limit,kWh/m2,1,365
+certification_limits,certification_limits.total_cooling_demand_limit,Total Cooling Demand Limit,code_min,Code Min,Total Cooling Demand Limit,kWh/m2,16,366
+certification_limits,certification_limits.total_cooling_demand_limit,Total Cooling Demand Limit,better,Better,Total Cooling Demand Limit,kWh/m2,16,366
+certification_limits,certification_limits.total_cooling_demand_limit,Total Cooling Demand Limit,even_better,Even Better,Total Cooling Demand Limit,kWh/m2,16,366
+certification_limits,certification_limits.total_cooling_demand_limit,Total Cooling Demand Limit,so_good,So Good,Total Cooling Demand Limit,kWh/m2,16,366
+certification_limits,certification_limits.total_cooling_demand_limit,Total Cooling Demand Limit,best,Best,Total Cooling Demand Limit,kWh/m2,16,366
+certification_limits,certification_limits.peak_heat_load_limit,Peak Heat Load Limit,code_min,Code Min,Peak Heat Load Limit,W/m2,0,367
+certification_limits,certification_limits.peak_heat_load_limit,Peak Heat Load Limit,better,Better,Peak Heat Load Limit,W/m2,0,367
+certification_limits,certification_limits.peak_heat_load_limit,Peak Heat Load Limit,even_better,Even Better,Peak Heat Load Limit,W/m2,0,367
+certification_limits,certification_limits.peak_heat_load_limit,Peak Heat Load Limit,so_good,So Good,Peak Heat Load Limit,W/m2,0,367
+certification_limits,certification_limits.peak_heat_load_limit,Peak Heat Load Limit,best,Best,Peak Heat Load Limit,W/m2,0,367
+certification_limits,certification_limits.peak_cooling_load_limit,Peak Cooling Load Limit,code_min,Code Min,Peak Cooling Load Limit,W/m2,8.8328553208,368
+certification_limits,certification_limits.peak_cooling_load_limit,Peak Cooling Load Limit,better,Better,Peak Cooling Load Limit,W/m2,8.8328553208,368
+certification_limits,certification_limits.peak_cooling_load_limit,Peak Cooling Load Limit,even_better,Even Better,Peak Cooling Load Limit,W/m2,8.8328553208,368
+certification_limits,certification_limits.peak_cooling_load_limit,Peak Cooling Load Limit,so_good,So Good,Peak Cooling Load Limit,W/m2,8.8328553208,368
+certification_limits,certification_limits.peak_cooling_load_limit,Peak Cooling Load Limit,best,Best,Peak Cooling Load Limit,W/m2,8.8328553208,368
+certification_limits,certification_limits.pe_limit,PE Limit,code_min,Code Min,PE Limit,kWh/m2,0,369
+certification_limits,certification_limits.pe_limit,PE Limit,better,Better,PE Limit,kWh/m2,0,369
+certification_limits,certification_limits.pe_limit,PE Limit,even_better,Even Better,PE Limit,kWh/m2,0,369
+certification_limits,certification_limits.pe_limit,PE Limit,so_good,So Good,PE Limit,kWh/m2,0,369
+certification_limits,certification_limits.pe_limit,PE Limit,best,Best,PE Limit,kWh/m2,0,369
+certification_limits,certification_limits.per_limit,PER Limit,code_min,Code Min,PER Limit,kWh/m2,106,370
+certification_limits,certification_limits.per_limit,PER Limit,better,Better,PER Limit,kWh/m2,106,370
+certification_limits,certification_limits.per_limit,PER Limit,even_better,Even Better,PER Limit,kWh/m2,106,370
+certification_limits,certification_limits.per_limit,PER Limit,so_good,So Good,PER Limit,kWh/m2,106,370
+certification_limits,certification_limits.per_limit,PER Limit,best,Best,PER Limit,kWh/m2,106,370
+certification_limits,certification_limits.phius_net_source_energy_limit,PHIUS Net Source Energy Limit,code_min,Code Min,PHIUS Net Source Energy Limit,kWh/m2,30.4991171804,371
+certification_limits,certification_limits.phius_net_source_energy_limit,PHIUS Net Source Energy Limit,better,Better,PHIUS Net Source Energy Limit,kWh/m2,30.4991171804,371
+certification_limits,certification_limits.phius_net_source_energy_limit,PHIUS Net Source Energy Limit,even_better,Even Better,PHIUS Net Source Energy Limit,kWh/m2,30.4991171804,371
+certification_limits,certification_limits.phius_net_source_energy_limit,PHIUS Net Source Energy Limit,so_good,So Good,PHIUS Net Source Energy Limit,kWh/m2,30.4991171804,371
+certification_limits,certification_limits.phius_net_source_energy_limit,PHIUS Net Source Energy Limit,best,Best,PHIUS Net Source Energy Limit,kWh/m2,30.4991171804,371
+heating_demand,heating_demand.walls_ag,Walls (AG),code_min,Code Min,Walls (AG),kWh,3051.30040824,376
+heating_demand,heating_demand.walls_ag,Walls (AG),better,Better,Walls (AG),kWh,3051.30040824,376
+heating_demand,heating_demand.walls_ag,Walls (AG),even_better,Even Better,Walls (AG),kWh,3051.30040824,376
+heating_demand,heating_demand.walls_ag,Walls (AG),so_good,So Good,Walls (AG),kWh,3051.30040824,376
+heating_demand,heating_demand.walls_ag,Walls (AG),best,Best,Walls (AG),kWh,3051.30040824,376
+heating_demand,heating_demand.walls_bg,Walls (BG),code_min,Code Min,Walls (BG),kWh,208.842921112,377
+heating_demand,heating_demand.walls_bg,Walls (BG),better,Better,Walls (BG),kWh,208.842921112,377
+heating_demand,heating_demand.walls_bg,Walls (BG),even_better,Even Better,Walls (BG),kWh,208.842921112,377
+heating_demand,heating_demand.walls_bg,Walls (BG),so_good,So Good,Walls (BG),kWh,208.842921112,377
+heating_demand,heating_demand.walls_bg,Walls (BG),best,Best,Walls (BG),kWh,208.842921112,377
+heating_demand,heating_demand.roofs,Roofs,code_min,Code Min,Roofs,kWh,1148.45738561,378
+heating_demand,heating_demand.roofs,Roofs,better,Better,Roofs,kWh,1148.45738561,378
+heating_demand,heating_demand.roofs,Roofs,even_better,Even Better,Roofs,kWh,1148.45738561,378
+heating_demand,heating_demand.roofs,Roofs,so_good,So Good,Roofs,kWh,1148.45738561,378
+heating_demand,heating_demand.roofs,Roofs,best,Best,Roofs,kWh,1148.45738561,378
+heating_demand,heating_demand.floor_slabs,Floor Slabs,code_min,Code Min,Floor Slabs,kWh,1979.84975384,379
+heating_demand,heating_demand.floor_slabs,Floor Slabs,better,Better,Floor Slabs,kWh,1979.84975384,379
+heating_demand,heating_demand.floor_slabs,Floor Slabs,even_better,Even Better,Floor Slabs,kWh,1979.84975384,379
+heating_demand,heating_demand.floor_slabs,Floor Slabs,so_good,So Good,Floor Slabs,kWh,1979.84975384,379
+heating_demand,heating_demand.floor_slabs,Floor Slabs,best,Best,Floor Slabs,kWh,1979.84975384,379
+heating_demand,heating_demand.windows,Windows,code_min,Code Min,Windows,kWh,8054.2952885,383
+heating_demand,heating_demand.windows,Windows,better,Better,Windows,kWh,8054.2952885,383
+heating_demand,heating_demand.windows,Windows,even_better,Even Better,Windows,kWh,8054.2952885,383
+heating_demand,heating_demand.windows,Windows,so_good,So Good,Windows,kWh,8054.2952885,383
+heating_demand,heating_demand.windows,Windows,best,Best,Windows,kWh,8054.2952885,383
+heating_demand,heating_demand.exterior_door,Exterior door,code_min,Code Min,Exterior door,kWh,,384
+heating_demand,heating_demand.exterior_door,Exterior door,better,Better,Exterior door,kWh,,384
+heating_demand,heating_demand.exterior_door,Exterior door,even_better,Even Better,Exterior door,kWh,,384
+heating_demand,heating_demand.exterior_door,Exterior door,so_good,So Good,Exterior door,kWh,,384
+heating_demand,heating_demand.exterior_door,Exterior door,best,Best,Exterior door,kWh,,384
+heating_demand,heating_demand.thermal_bridges,Thermal Bridges,code_min,Code Min,Thermal Bridges,kWh,3431.39044063,385
+heating_demand,heating_demand.thermal_bridges,Thermal Bridges,better,Better,Thermal Bridges,kWh,3431.39044063,385
+heating_demand,heating_demand.thermal_bridges,Thermal Bridges,even_better,Even Better,Thermal Bridges,kWh,3431.39044063,385
+heating_demand,heating_demand.thermal_bridges,Thermal Bridges,so_good,So Good,Thermal Bridges,kWh,3431.39044063,385
+heating_demand,heating_demand.thermal_bridges,Thermal Bridges,best,Best,Thermal Bridges,kWh,3431.39044063,385
+heating_demand,heating_demand.tb_perimeter,TB (Perimeter),code_min,Code Min,TB (Perimeter),kWh,,386
+heating_demand,heating_demand.tb_perimeter,TB (Perimeter),better,Better,TB (Perimeter),kWh,,386
+heating_demand,heating_demand.tb_perimeter,TB (Perimeter),even_better,Even Better,TB (Perimeter),kWh,,386
+heating_demand,heating_demand.tb_perimeter,TB (Perimeter),so_good,So Good,TB (Perimeter),kWh,,386
+heating_demand,heating_demand.tb_perimeter,TB (Perimeter),best,Best,TB (Perimeter),kWh,,386
+heating_demand,heating_demand.tb_bg,TB (BG),code_min,Code Min,TB (BG),kWh,,387
+heating_demand,heating_demand.tb_bg,TB (BG),better,Better,TB (BG),kWh,,387
+heating_demand,heating_demand.tb_bg,TB (BG),even_better,Even Better,TB (BG),kWh,,387
+heating_demand,heating_demand.tb_bg,TB (BG),so_good,So Good,TB (BG),kWh,,387
+heating_demand,heating_demand.tb_bg,TB (BG),best,Best,TB (BG),kWh,,387
+heating_demand,heating_demand.ventilation,Ventilation,code_min,Code Min,Ventilation,kWh,10142.3108516,388
+heating_demand,heating_demand.ventilation,Ventilation,better,Better,Ventilation,kWh,10142.3108516,388
+heating_demand,heating_demand.ventilation,Ventilation,even_better,Even Better,Ventilation,kWh,10142.3108516,388
+heating_demand,heating_demand.ventilation,Ventilation,so_good,So Good,Ventilation,kWh,10142.3108516,388
+heating_demand,heating_demand.ventilation,Ventilation,best,Best,Ventilation,kWh,10142.3108516,388
+heating_demand,heating_demand.heating_demand,Heating Demand,code_min,Code Min,Heating Demand,kWh,16642.1970811,389
+heating_demand,heating_demand.heating_demand,Heating Demand,better,Better,Heating Demand,kWh,16642.1970811,389
+heating_demand,heating_demand.heating_demand,Heating Demand,even_better,Even Better,Heating Demand,kWh,16642.1970811,389
+heating_demand,heating_demand.heating_demand,Heating Demand,so_good,So Good,Heating Demand,kWh,16642.1970811,389
+heating_demand,heating_demand.heating_demand,Heating Demand,best,Best,Heating Demand,kWh,16642.1970811,389
+heating_demand,heating_demand.north,North,code_min,Code Min,North,kWh,1357.3978936,390
+heating_demand,heating_demand.north,North,better,Better,North,kWh,1357.3978936,390
+heating_demand,heating_demand.north,North,even_better,Even Better,North,kWh,1357.3978936,390
+heating_demand,heating_demand.north,North,so_good,So Good,North,kWh,1357.3978936,390
+heating_demand,heating_demand.north,North,best,Best,North,kWh,1357.3978936,390
+heating_demand,heating_demand.east,East,code_min,Code Min,East,kWh,0,391
+heating_demand,heating_demand.east,East,better,Better,East,kWh,0,391
+heating_demand,heating_demand.east,East,even_better,Even Better,East,kWh,0,391
+heating_demand,heating_demand.east,East,so_good,So Good,East,kWh,0,391
+heating_demand,heating_demand.east,East,best,Best,East,kWh,0,391
+heating_demand,heating_demand.south,South,code_min,Code Min,South,kWh,3547.82398146,392
+heating_demand,heating_demand.south,South,better,Better,South,kWh,3547.82398146,392
+heating_demand,heating_demand.south,South,even_better,Even Better,South,kWh,3547.82398146,392
+heating_demand,heating_demand.south,South,so_good,So Good,South,kWh,3547.82398146,392
+heating_demand,heating_demand.south,South,best,Best,South,kWh,3547.82398146,392
+heating_demand,heating_demand.west,West,code_min,Code Min,West,kWh,1344.08788247,393
+heating_demand,heating_demand.west,West,better,Better,West,kWh,1344.08788247,393
+heating_demand,heating_demand.west,West,even_better,Even Better,West,kWh,1344.08788247,393
+heating_demand,heating_demand.west,West,so_good,So Good,West,kWh,1344.08788247,393
+heating_demand,heating_demand.west,West,best,Best,West,kWh,1344.08788247,393
+heating_demand,heating_demand.horizontal,Horizontal,code_min,Code Min,Horizontal,kWh,0,394
+heating_demand,heating_demand.horizontal,Horizontal,better,Better,Horizontal,kWh,0,394
+heating_demand,heating_demand.horizontal,Horizontal,even_better,Even Better,Horizontal,kWh,0,394
+heating_demand,heating_demand.horizontal,Horizontal,so_good,So Good,Horizontal,kWh,0,394
+heating_demand,heating_demand.horizontal,Horizontal,best,Best,Horizontal,kWh,0,394
+heating_demand,heating_demand.sum_opaque_areas,Sum opaque areas,code_min,Code Min,Sum opaque areas,kWh,1248.96422402,395
+heating_demand,heating_demand.sum_opaque_areas,Sum opaque areas,better,Better,Sum opaque areas,kWh,1248.96422402,395
+heating_demand,heating_demand.sum_opaque_areas,Sum opaque areas,even_better,Even Better,Sum opaque areas,kWh,1248.96422402,395
+heating_demand,heating_demand.sum_opaque_areas,Sum opaque areas,so_good,So Good,Sum opaque areas,kWh,1248.96422402,395
+heating_demand,heating_demand.sum_opaque_areas,Sum opaque areas,best,Best,Sum opaque areas,kWh,1248.96422402,395
+heating_demand,heating_demand.internal_gains,Internal Gains,code_min,Code Min,Internal Gains,kWh,4784.6480761,396
+heating_demand,heating_demand.internal_gains,Internal Gains,better,Better,Internal Gains,kWh,4784.6480761,396
+heating_demand,heating_demand.internal_gains,Internal Gains,even_better,Even Better,Internal Gains,kWh,4784.6480761,396
+heating_demand,heating_demand.internal_gains,Internal Gains,so_good,So Good,Internal Gains,kWh,4784.6480761,396
+heating_demand,heating_demand.internal_gains,Internal Gains,best,Best,Internal Gains,kWh,4784.6480761,396
+cooling_demand,cooling_demand.cooling_demand_2,Cooling Demand,code_min,Code Min,Cooling Demand,kWh,3171.49085602,399
+cooling_demand,cooling_demand.cooling_demand_2,Cooling Demand,better,Better,Cooling Demand,kWh,3171.49085602,399
+cooling_demand,cooling_demand.cooling_demand_2,Cooling Demand,even_better,Even Better,Cooling Demand,kWh,3171.49085602,399
+cooling_demand,cooling_demand.cooling_demand_2,Cooling Demand,so_good,So Good,Cooling Demand,kWh,3171.49085602,399
+cooling_demand,cooling_demand.cooling_demand_2,Cooling Demand,best,Best,Cooling Demand,kWh,3171.49085602,399
+cooling_demand,cooling_demand.walls_ag,Walls (AG),code_min,Code Min,Walls (AG),kWh,2519.58569541,400
+cooling_demand,cooling_demand.walls_ag,Walls (AG),better,Better,Walls (AG),kWh,2519.58569541,400
+cooling_demand,cooling_demand.walls_ag,Walls (AG),even_better,Even Better,Walls (AG),kWh,2519.58569541,400
+cooling_demand,cooling_demand.walls_ag,Walls (AG),so_good,So Good,Walls (AG),kWh,2519.58569541,400
+cooling_demand,cooling_demand.walls_ag,Walls (AG),best,Best,Walls (AG),kWh,2519.58569541,400
+cooling_demand,cooling_demand.walls_bg,Walls (BG),code_min,Code Min,Walls (BG),kWh,241.683331527,401
+cooling_demand,cooling_demand.walls_bg,Walls (BG),better,Better,Walls (BG),kWh,241.683331527,401
+cooling_demand,cooling_demand.walls_bg,Walls (BG),even_better,Even Better,Walls (BG),kWh,241.683331527,401
+cooling_demand,cooling_demand.walls_bg,Walls (BG),so_good,So Good,Walls (BG),kWh,241.683331527,401
+cooling_demand,cooling_demand.walls_bg,Walls (BG),best,Best,Walls (BG),kWh,241.683331527,401
+cooling_demand,cooling_demand.roofs,Roofs,code_min,Code Min,Roofs,kWh,948.329044481,402
+cooling_demand,cooling_demand.roofs,Roofs,better,Better,Roofs,kWh,948.329044481,402
+cooling_demand,cooling_demand.roofs,Roofs,even_better,Even Better,Roofs,kWh,948.329044481,402
+cooling_demand,cooling_demand.roofs,Roofs,so_good,So Good,Roofs,kWh,948.329044481,402
+cooling_demand,cooling_demand.roofs,Roofs,best,Best,Roofs,kWh,948.329044481,402
+cooling_demand,cooling_demand.floor_slabs,Floor Slabs,code_min,Code Min,Floor Slabs,kWh,2291.17981057,403
+cooling_demand,cooling_demand.floor_slabs,Floor Slabs,better,Better,Floor Slabs,kWh,2291.17981057,403
+cooling_demand,cooling_demand.floor_slabs,Floor Slabs,even_better,Even Better,Floor Slabs,kWh,2291.17981057,403
+cooling_demand,cooling_demand.floor_slabs,Floor Slabs,so_good,So Good,Floor Slabs,kWh,2291.17981057,403
+cooling_demand,cooling_demand.floor_slabs,Floor Slabs,best,Best,Floor Slabs,kWh,2291.17981057,403
+cooling_demand,cooling_demand.windows,Windows,code_min,Code Min,Windows,kWh,6650.76671597,407
+cooling_demand,cooling_demand.windows,Windows,better,Better,Windows,kWh,6650.76671597,407
+cooling_demand,cooling_demand.windows,Windows,even_better,Even Better,Windows,kWh,6650.76671597,407
+cooling_demand,cooling_demand.windows,Windows,so_good,So Good,Windows,kWh,6650.76671597,407
+cooling_demand,cooling_demand.windows,Windows,best,Best,Windows,kWh,6650.76671597,407
+cooling_demand,cooling_demand.exterior_door,Exterior door,code_min,Code Min,Exterior door,kWh,,408
+cooling_demand,cooling_demand.exterior_door,Exterior door,better,Better,Exterior door,kWh,,408
+cooling_demand,cooling_demand.exterior_door,Exterior door,even_better,Even Better,Exterior door,kWh,,408
+cooling_demand,cooling_demand.exterior_door,Exterior door,so_good,So Good,Exterior door,kWh,,408
+cooling_demand,cooling_demand.exterior_door,Exterior door,best,Best,Exterior door,kWh,,408
+cooling_demand,cooling_demand.thermal_bridges,Thermal Bridges,code_min,Code Min,Thermal Bridges,kWh,2833.44184868,409
+cooling_demand,cooling_demand.thermal_bridges,Thermal Bridges,better,Better,Thermal Bridges,kWh,2833.44184868,409
+cooling_demand,cooling_demand.thermal_bridges,Thermal Bridges,even_better,Even Better,Thermal Bridges,kWh,2833.44184868,409
+cooling_demand,cooling_demand.thermal_bridges,Thermal Bridges,so_good,So Good,Thermal Bridges,kWh,2833.44184868,409
+cooling_demand,cooling_demand.thermal_bridges,Thermal Bridges,best,Best,Thermal Bridges,kWh,2833.44184868,409
+cooling_demand,cooling_demand.tb_perimeter,TB (Perimeter),code_min,Code Min,TB (Perimeter),kWh,,410
+cooling_demand,cooling_demand.tb_perimeter,TB (Perimeter),better,Better,TB (Perimeter),kWh,,410
+cooling_demand,cooling_demand.tb_perimeter,TB (Perimeter),even_better,Even Better,TB (Perimeter),kWh,,410
+cooling_demand,cooling_demand.tb_perimeter,TB (Perimeter),so_good,So Good,TB (Perimeter),kWh,,410
+cooling_demand,cooling_demand.tb_perimeter,TB (Perimeter),best,Best,TB (Perimeter),kWh,,410
+cooling_demand,cooling_demand.tb_bg,TB (BG),code_min,Code Min,TB (BG),kWh,,411
+cooling_demand,cooling_demand.tb_bg,TB (BG),better,Better,TB (BG),kWh,,411
+cooling_demand,cooling_demand.tb_bg,TB (BG),even_better,Even Better,TB (BG),kWh,,411
+cooling_demand,cooling_demand.tb_bg,TB (BG),so_good,So Good,TB (BG),kWh,,411
+cooling_demand,cooling_demand.tb_bg,TB (BG),best,Best,TB (BG),kWh,,411
+cooling_demand,cooling_demand.ventilation_basic,Ventilation (Basic),code_min,Code Min,Ventilation (Basic),kWh,3618.32665839,412
+cooling_demand,cooling_demand.ventilation_basic,Ventilation (Basic),better,Better,Ventilation (Basic),kWh,3618.32665839,412
+cooling_demand,cooling_demand.ventilation_basic,Ventilation (Basic),even_better,Even Better,Ventilation (Basic),kWh,3618.32665839,412
+cooling_demand,cooling_demand.ventilation_basic,Ventilation (Basic),so_good,So Good,Ventilation (Basic),kWh,3618.32665839,412
+cooling_demand,cooling_demand.ventilation_basic,Ventilation (Basic),best,Best,Ventilation (Basic),kWh,3618.32665839,412
+cooling_demand,cooling_demand.ventilation_addn_l,Ventilation (Addn'l),code_min,Code Min,Ventilation (Addn'l),kWh,0,413
+cooling_demand,cooling_demand.ventilation_addn_l,Ventilation (Addn'l),better,Better,Ventilation (Addn'l),kWh,0,413
+cooling_demand,cooling_demand.ventilation_addn_l,Ventilation (Addn'l),even_better,Even Better,Ventilation (Addn'l),kWh,0,413
+cooling_demand,cooling_demand.ventilation_addn_l,Ventilation (Addn'l),so_good,So Good,Ventilation (Addn'l),kWh,0,413
+cooling_demand,cooling_demand.ventilation_addn_l,Ventilation (Addn'l),best,Best,Ventilation (Addn'l),kWh,0,413
+cooling_demand,cooling_demand.north,North,code_min,Code Min,North,kWh,1243.67541459,414
+cooling_demand,cooling_demand.north,North,better,Better,North,kWh,1243.67541459,414
+cooling_demand,cooling_demand.north,North,even_better,Even Better,North,kWh,1243.67541459,414
+cooling_demand,cooling_demand.north,North,so_good,So Good,North,kWh,1243.67541459,414
+cooling_demand,cooling_demand.north,North,best,Best,North,kWh,1243.67541459,414
+cooling_demand,cooling_demand.east,East,code_min,Code Min,East,kWh,0,415
+cooling_demand,cooling_demand.east,East,better,Better,East,kWh,0,415
+cooling_demand,cooling_demand.east,East,even_better,Even Better,East,kWh,0,415
+cooling_demand,cooling_demand.east,East,so_good,So Good,East,kWh,0,415
+cooling_demand,cooling_demand.east,East,best,Best,East,kWh,0,415
+cooling_demand,cooling_demand.south,South,code_min,Code Min,South,kWh,3554.91368836,416
+cooling_demand,cooling_demand.south,South,better,Better,South,kWh,3554.91368836,416
+cooling_demand,cooling_demand.south,South,even_better,Even Better,South,kWh,3554.91368836,416
+cooling_demand,cooling_demand.south,South,so_good,So Good,South,kWh,3554.91368836,416
+cooling_demand,cooling_demand.south,South,best,Best,South,kWh,3554.91368836,416
+cooling_demand,cooling_demand.west,West,code_min,Code Min,West,kWh,1654.36533224,417
+cooling_demand,cooling_demand.west,West,better,Better,West,kWh,1654.36533224,417
+cooling_demand,cooling_demand.west,West,even_better,Even Better,West,kWh,1654.36533224,417
+cooling_demand,cooling_demand.west,West,so_good,So Good,West,kWh,1654.36533224,417
+cooling_demand,cooling_demand.west,West,best,Best,West,kWh,1654.36533224,417
+cooling_demand,cooling_demand.horizontal,Horizontal,code_min,Code Min,Horizontal,kWh,0,418
+cooling_demand,cooling_demand.horizontal,Horizontal,better,Better,Horizontal,kWh,0,418
+cooling_demand,cooling_demand.horizontal,Horizontal,even_better,Even Better,Horizontal,kWh,0,418
+cooling_demand,cooling_demand.horizontal,Horizontal,so_good,So Good,Horizontal,kWh,0,418
+cooling_demand,cooling_demand.horizontal,Horizontal,best,Best,Horizontal,kWh,0,418
+cooling_demand,cooling_demand.sum_opaque_areas,Sum opaque areas,code_min,Code Min,Sum opaque areas,kWh,1704.59516585,419
+cooling_demand,cooling_demand.sum_opaque_areas,Sum opaque areas,better,Better,Sum opaque areas,kWh,1704.59516585,419
+cooling_demand,cooling_demand.sum_opaque_areas,Sum opaque areas,even_better,Even Better,Sum opaque areas,kWh,1704.59516585,419
+cooling_demand,cooling_demand.sum_opaque_areas,Sum opaque areas,so_good,So Good,Sum opaque areas,kWh,1704.59516585,419
+cooling_demand,cooling_demand.sum_opaque_areas,Sum opaque areas,best,Best,Sum opaque areas,kWh,1704.59516585,419
+cooling_demand,cooling_demand.internal_gains,Internal Gains,code_min,Code Min,Internal Gains,kWh,5768.55660947,420
+cooling_demand,cooling_demand.internal_gains,Internal Gains,better,Better,Internal Gains,kWh,5768.55660947,420
+cooling_demand,cooling_demand.internal_gains,Internal Gains,even_better,Even Better,Internal Gains,kWh,5768.55660947,420
+cooling_demand,cooling_demand.internal_gains,Internal Gains,so_good,So Good,Internal Gains,kWh,5768.55660947,420
+cooling_demand,cooling_demand.internal_gains,Internal Gains,best,Best,Internal Gains,kWh,5768.55660947,420
+site_energy,site_energy.heating,Heating,code_min,Code Min,Heating,kWh,10113.4996469,423
+site_energy,site_energy.heating,Heating,better,Better,Heating,kWh,10113.4996469,423
+site_energy,site_energy.heating,Heating,even_better,Even Better,Heating,kWh,10113.4996469,423
+site_energy,site_energy.heating,Heating,so_good,So Good,Heating,kWh,10113.4996469,423
+site_energy,site_energy.heating,Heating,best,Best,Heating,kWh,10113.4996469,423
+site_energy,site_energy.cooling,Cooling,code_min,Code Min,Cooling,kWh,2387.65947215,424
+site_energy,site_energy.cooling,Cooling,better,Better,Cooling,kWh,2387.65947215,424
+site_energy,site_energy.cooling,Cooling,even_better,Even Better,Cooling,kWh,2387.65947215,424
+site_energy,site_energy.cooling,Cooling,so_good,So Good,Cooling,kWh,2387.65947215,424
+site_energy,site_energy.cooling,Cooling,best,Best,Cooling,kWh,2387.65947215,424
+site_energy,site_energy.dhw,DHW,code_min,Code Min,DHW,kWh,3441.15610023,425
+site_energy,site_energy.dhw,DHW,better,Better,DHW,kWh,3441.15610023,425
+site_energy,site_energy.dhw,DHW,even_better,Even Better,DHW,kWh,3441.15610023,425
+site_energy,site_energy.dhw,DHW,so_good,So Good,DHW,kWh,3441.15610023,425
+site_energy,site_energy.dhw,DHW,best,Best,DHW,kWh,3441.15610023,425
+site_energy,site_energy.dishwashing,Dishwashing,code_min,Code Min,Dishwashing,kWh,113.867887278,426
+site_energy,site_energy.dishwashing,Dishwashing,better,Better,Dishwashing,kWh,113.867887278,426
+site_energy,site_energy.dishwashing,Dishwashing,even_better,Even Better,Dishwashing,kWh,113.867887278,426
+site_energy,site_energy.dishwashing,Dishwashing,so_good,So Good,Dishwashing,kWh,113.867887278,426
+site_energy,site_energy.dishwashing,Dishwashing,best,Best,Dishwashing,kWh,113.867887278,426
+site_energy,site_energy.clothes_washing,Clothes Washing,code_min,Code Min,Clothes Washing,kWh,65.3500275336,427
+site_energy,site_energy.clothes_washing,Clothes Washing,better,Better,Clothes Washing,kWh,65.3500275336,427
+site_energy,site_energy.clothes_washing,Clothes Washing,even_better,Even Better,Clothes Washing,kWh,65.3500275336,427
+site_energy,site_energy.clothes_washing,Clothes Washing,so_good,So Good,Clothes Washing,kWh,65.3500275336,427
+site_energy,site_energy.clothes_washing,Clothes Washing,best,Best,Clothes Washing,kWh,65.3500275336,427
+site_energy,site_energy.clothes_drying,Clothes Drying,code_min,Code Min,Clothes Drying,kWh,310.113815021,428
+site_energy,site_energy.clothes_drying,Clothes Drying,better,Better,Clothes Drying,kWh,310.113815021,428
+site_energy,site_energy.clothes_drying,Clothes Drying,even_better,Even Better,Clothes Drying,kWh,310.113815021,428
+site_energy,site_energy.clothes_drying,Clothes Drying,so_good,So Good,Clothes Drying,kWh,310.113815021,428
+site_energy,site_energy.clothes_drying,Clothes Drying,best,Best,Clothes Drying,kWh,310.113815021,428
+site_energy,site_energy.refrigerator,Refrigerator,code_min,Code Min,Refrigerator,kWh,445.3,429
+site_energy,site_energy.refrigerator,Refrigerator,better,Better,Refrigerator,kWh,445.3,429
+site_energy,site_energy.refrigerator,Refrigerator,even_better,Even Better,Refrigerator,kWh,445.3,429
+site_energy,site_energy.refrigerator,Refrigerator,so_good,So Good,Refrigerator,kWh,445.3,429
+site_energy,site_energy.refrigerator,Refrigerator,best,Best,Refrigerator,kWh,445.3,429
+site_energy,site_energy.cooking,Cooking,code_min,Code Min,Cooking,kWh,408.357899562,430
+site_energy,site_energy.cooking,Cooking,better,Better,Cooking,kWh,408.357899562,430
+site_energy,site_energy.cooking,Cooking,even_better,Even Better,Cooking,kWh,408.357899562,430
+site_energy,site_energy.cooking,Cooking,so_good,So Good,Cooking,kWh,408.357899562,430
+site_energy,site_energy.cooking,Cooking,best,Best,Cooking,kWh,408.357899562,430
+site_energy,site_energy.phi_lighting,PHI Lighting,code_min,Code Min,PHI Lighting,kWh,197.579886124,431
+site_energy,site_energy.phi_lighting,PHI Lighting,better,Better,PHI Lighting,kWh,197.579886124,431
+site_energy,site_energy.phi_lighting,PHI Lighting,even_better,Even Better,PHI Lighting,kWh,197.579886124,431
+site_energy,site_energy.phi_lighting,PHI Lighting,so_good,So Good,PHI Lighting,kWh,197.579886124,431
+site_energy,site_energy.phi_lighting,PHI Lighting,best,Best,PHI Lighting,kWh,197.579886124,431
+site_energy,site_energy.phi_consumer_elec,PHI Consumer Elec.,code_min,Code Min,PHI Consumer Elec.,kWh,612.589439363,432
+site_energy,site_energy.phi_consumer_elec,PHI Consumer Elec.,better,Better,PHI Consumer Elec.,kWh,612.589439363,432
+site_energy,site_energy.phi_consumer_elec,PHI Consumer Elec.,even_better,Even Better,PHI Consumer Elec.,kWh,612.589439363,432
+site_energy,site_energy.phi_consumer_elec,PHI Consumer Elec.,so_good,So Good,PHI Consumer Elec.,kWh,612.589439363,432
+site_energy,site_energy.phi_consumer_elec,PHI Consumer Elec.,best,Best,PHI Consumer Elec.,kWh,612.589439363,432
+site_energy,site_energy.phi_small_appliances,PHI Small Appliances,code_min,Code Min,PHI Small Appliances,kWh,65.8204474829,433
+site_energy,site_energy.phi_small_appliances,PHI Small Appliances,better,Better,PHI Small Appliances,kWh,65.8204474829,433
+site_energy,site_energy.phi_small_appliances,PHI Small Appliances,even_better,Even Better,PHI Small Appliances,kWh,65.8204474829,433
+site_energy,site_energy.phi_small_appliances,PHI Small Appliances,so_good,So Good,PHI Small Appliances,kWh,65.8204474829,433
+site_energy,site_energy.phi_small_appliances,PHI Small Appliances,best,Best,PHI Small Appliances,kWh,65.8204474829,433
+site_energy,site_energy.phius_int_lighting,Phius Int. Lighting,code_min,Code Min,Phius Int. Lighting,kWh,0,434
+site_energy,site_energy.phius_int_lighting,Phius Int. Lighting,better,Better,Phius Int. Lighting,kWh,0,434
+site_energy,site_energy.phius_int_lighting,Phius Int. Lighting,even_better,Even Better,Phius Int. Lighting,kWh,0,434
+site_energy,site_energy.phius_int_lighting,Phius Int. Lighting,so_good,So Good,Phius Int. Lighting,kWh,0,434
+site_energy,site_energy.phius_int_lighting,Phius Int. Lighting,best,Best,Phius Int. Lighting,kWh,0,434
+site_energy,site_energy.phius_ext_lighting,Phius Ext. Lighting,code_min,Code Min,Phius Ext. Lighting,kWh,0,435
+site_energy,site_energy.phius_ext_lighting,Phius Ext. Lighting,better,Better,Phius Ext. Lighting,kWh,0,435
+site_energy,site_energy.phius_ext_lighting,Phius Ext. Lighting,even_better,Even Better,Phius Ext. Lighting,kWh,0,435
+site_energy,site_energy.phius_ext_lighting,Phius Ext. Lighting,so_good,So Good,Phius Ext. Lighting,kWh,0,435
+site_energy,site_energy.phius_ext_lighting,Phius Ext. Lighting,best,Best,Phius Ext. Lighting,kWh,0,435
+site_energy,site_energy.phius_mel,Phius MEL,code_min,Code Min,Phius MEL,kWh,0,436
+site_energy,site_energy.phius_mel,Phius MEL,better,Better,Phius MEL,kWh,0,436
+site_energy,site_energy.phius_mel,Phius MEL,even_better,Even Better,Phius MEL,kWh,0,436
+site_energy,site_energy.phius_mel,Phius MEL,so_good,So Good,Phius MEL,kWh,0,436
+site_energy,site_energy.phius_mel,Phius MEL,best,Best,Phius MEL,kWh,0,436
+site_energy,site_energy.aux_elec,Aux Elec,code_min,Code Min,Aux Elec,kWh,0,437
+site_energy,site_energy.aux_elec,Aux Elec,better,Better,Aux Elec,kWh,0,437
+site_energy,site_energy.aux_elec,Aux Elec,even_better,Even Better,Aux Elec,kWh,0,437
+site_energy,site_energy.aux_elec,Aux Elec,so_good,So Good,Aux Elec,kWh,0,437
+site_energy,site_energy.aux_elec,Aux Elec,best,Best,Aux Elec,kWh,0,437
+site_energy,site_energy.solar_pv,Solar PV,code_min,Code Min,Solar PV,kWh,0,438
+site_energy,site_energy.solar_pv,Solar PV,better,Better,Solar PV,kWh,0,438
+site_energy,site_energy.solar_pv,Solar PV,even_better,Even Better,Solar PV,kWh,0,438
+site_energy,site_energy.solar_pv,Solar PV,so_good,So Good,Solar PV,kWh,0,438
+site_energy,site_energy.solar_pv,Solar PV,best,Best,Solar PV,kWh,0,438
+primary_energy,primary_energy.heating,Heating,code_min,Code Min,Heating,kWh,26295.0990819,441
+primary_energy,primary_energy.heating,Heating,better,Better,Heating,kWh,26295.0990819,441
+primary_energy,primary_energy.heating,Heating,even_better,Even Better,Heating,kWh,26295.0990819,441
+primary_energy,primary_energy.heating,Heating,so_good,So Good,Heating,kWh,26295.0990819,441
+primary_energy,primary_energy.heating,Heating,best,Best,Heating,kWh,26295.0990819,441
+primary_energy,primary_energy.cooling,Cooling,code_min,Code Min,Cooling,kWh,6207.91462758,442
+primary_energy,primary_energy.cooling,Cooling,better,Better,Cooling,kWh,6207.91462758,442
+primary_energy,primary_energy.cooling,Cooling,even_better,Even Better,Cooling,kWh,6207.91462758,442
+primary_energy,primary_energy.cooling,Cooling,so_good,So Good,Cooling,kWh,6207.91462758,442
+primary_energy,primary_energy.cooling,Cooling,best,Best,Cooling,kWh,6207.91462758,442
+primary_energy,primary_energy.dhw,DHW,code_min,Code Min,DHW,kWh,8947.0058606,443
+primary_energy,primary_energy.dhw,DHW,better,Better,DHW,kWh,8947.0058606,443
+primary_energy,primary_energy.dhw,DHW,even_better,Even Better,DHW,kWh,8947.0058606,443
+primary_energy,primary_energy.dhw,DHW,so_good,So Good,DHW,kWh,8947.0058606,443
+primary_energy,primary_energy.dhw,DHW,best,Best,DHW,kWh,8947.0058606,443
+primary_energy,primary_energy.dishwashing,Dishwashing,code_min,Code Min,Dishwashing,kWh,296.056506922,444
+primary_energy,primary_energy.dishwashing,Dishwashing,better,Better,Dishwashing,kWh,296.056506922,444
+primary_energy,primary_energy.dishwashing,Dishwashing,even_better,Even Better,Dishwashing,kWh,296.056506922,444
+primary_energy,primary_energy.dishwashing,Dishwashing,so_good,So Good,Dishwashing,kWh,296.056506922,444
+primary_energy,primary_energy.dishwashing,Dishwashing,best,Best,Dishwashing,kWh,296.056506922,444
+primary_energy,primary_energy.clothes_washing,Clothes Washing,code_min,Code Min,Clothes Washing,kWh,169.910071587,445
+primary_energy,primary_energy.clothes_washing,Clothes Washing,better,Better,Clothes Washing,kWh,169.910071587,445
+primary_energy,primary_energy.clothes_washing,Clothes Washing,even_better,Even Better,Clothes Washing,kWh,169.910071587,445
+primary_energy,primary_energy.clothes_washing,Clothes Washing,so_good,So Good,Clothes Washing,kWh,169.910071587,445
+primary_energy,primary_energy.clothes_washing,Clothes Washing,best,Best,Clothes Washing,kWh,169.910071587,445
+primary_energy,primary_energy.clothes_drying,Clothes Drying,code_min,Code Min,Clothes Drying,kWh,806.295919055,446
+primary_energy,primary_energy.clothes_drying,Clothes Drying,better,Better,Clothes Drying,kWh,806.295919055,446
+primary_energy,primary_energy.clothes_drying,Clothes Drying,even_better,Even Better,Clothes Drying,kWh,806.295919055,446
+primary_energy,primary_energy.clothes_drying,Clothes Drying,so_good,So Good,Clothes Drying,kWh,806.295919055,446
+primary_energy,primary_energy.clothes_drying,Clothes Drying,best,Best,Clothes Drying,kWh,806.295919055,446
+primary_energy,primary_energy.refrigerator,Refrigerator,code_min,Code Min,Refrigerator,kWh,1157.78,447
+primary_energy,primary_energy.refrigerator,Refrigerator,better,Better,Refrigerator,kWh,1157.78,447
+primary_energy,primary_energy.refrigerator,Refrigerator,even_better,Even Better,Refrigerator,kWh,1157.78,447
+primary_energy,primary_energy.refrigerator,Refrigerator,so_good,So Good,Refrigerator,kWh,1157.78,447
+primary_energy,primary_energy.refrigerator,Refrigerator,best,Best,Refrigerator,kWh,1157.78,447
+primary_energy,primary_energy.cooking,Cooking,code_min,Code Min,Cooking,kWh,1061.73053886,448
+primary_energy,primary_energy.cooking,Cooking,better,Better,Cooking,kWh,1061.73053886,448
+primary_energy,primary_energy.cooking,Cooking,even_better,Even Better,Cooking,kWh,1061.73053886,448
+primary_energy,primary_energy.cooking,Cooking,so_good,So Good,Cooking,kWh,1061.73053886,448
+primary_energy,primary_energy.cooking,Cooking,best,Best,Cooking,kWh,1061.73053886,448
+primary_energy,primary_energy.phi_lighting,PHI Lighting,code_min,Code Min,PHI Lighting,kWh,513.707703923,449
+primary_energy,primary_energy.phi_lighting,PHI Lighting,better,Better,PHI Lighting,kWh,513.707703923,449
+primary_energy,primary_energy.phi_lighting,PHI Lighting,even_better,Even Better,PHI Lighting,kWh,513.707703923,449
+primary_energy,primary_energy.phi_lighting,PHI Lighting,so_good,So Good,PHI Lighting,kWh,513.707703923,449
+primary_energy,primary_energy.phi_lighting,PHI Lighting,best,Best,PHI Lighting,kWh,513.707703923,449
+primary_energy,primary_energy.phi_consumer_elec,PHI Consumer Elec.,code_min,Code Min,PHI Consumer Elec.,kWh,1592.73254234,450
+primary_energy,primary_energy.phi_consumer_elec,PHI Consumer Elec.,better,Better,PHI Consumer Elec.,kWh,1592.73254234,450
+primary_energy,primary_energy.phi_consumer_elec,PHI Consumer Elec.,even_better,Even Better,PHI Consumer Elec.,kWh,1592.73254234,450
+primary_energy,primary_energy.phi_consumer_elec,PHI Consumer Elec.,so_good,So Good,PHI Consumer Elec.,kWh,1592.73254234,450
+primary_energy,primary_energy.phi_consumer_elec,PHI Consumer Elec.,best,Best,PHI Consumer Elec.,kWh,1592.73254234,450
+primary_energy,primary_energy.phi_small_appliances,PHI Small Appliances,code_min,Code Min,PHI Small Appliances,kWh,171.133163455,451
+primary_energy,primary_energy.phi_small_appliances,PHI Small Appliances,better,Better,PHI Small Appliances,kWh,171.133163455,451
+primary_energy,primary_energy.phi_small_appliances,PHI Small Appliances,even_better,Even Better,PHI Small Appliances,kWh,171.133163455,451
+primary_energy,primary_energy.phi_small_appliances,PHI Small Appliances,so_good,So Good,PHI Small Appliances,kWh,171.133163455,451
+primary_energy,primary_energy.phi_small_appliances,PHI Small Appliances,best,Best,PHI Small Appliances,kWh,171.133163455,451
+primary_energy,primary_energy.phius_int_lighting,Phius Int. Lighting,code_min,Code Min,Phius Int. Lighting,kWh,0,452
+primary_energy,primary_energy.phius_int_lighting,Phius Int. Lighting,better,Better,Phius Int. Lighting,kWh,0,452
+primary_energy,primary_energy.phius_int_lighting,Phius Int. Lighting,even_better,Even Better,Phius Int. Lighting,kWh,0,452
+primary_energy,primary_energy.phius_int_lighting,Phius Int. Lighting,so_good,So Good,Phius Int. Lighting,kWh,0,452
+primary_energy,primary_energy.phius_int_lighting,Phius Int. Lighting,best,Best,Phius Int. Lighting,kWh,0,452
+primary_energy,primary_energy.phius_ext_lighting,Phius Ext. Lighting,code_min,Code Min,Phius Ext. Lighting,kWh,0,453
+primary_energy,primary_energy.phius_ext_lighting,Phius Ext. Lighting,better,Better,Phius Ext. Lighting,kWh,0,453
+primary_energy,primary_energy.phius_ext_lighting,Phius Ext. Lighting,even_better,Even Better,Phius Ext. Lighting,kWh,0,453
+primary_energy,primary_energy.phius_ext_lighting,Phius Ext. Lighting,so_good,So Good,Phius Ext. Lighting,kWh,0,453
+primary_energy,primary_energy.phius_ext_lighting,Phius Ext. Lighting,best,Best,Phius Ext. Lighting,kWh,0,453
+primary_energy,primary_energy.phius_mel,Phius MEL,code_min,Code Min,Phius MEL,kWh,0,454
+primary_energy,primary_energy.phius_mel,Phius MEL,better,Better,Phius MEL,kWh,0,454
+primary_energy,primary_energy.phius_mel,Phius MEL,even_better,Even Better,Phius MEL,kWh,0,454
+primary_energy,primary_energy.phius_mel,Phius MEL,so_good,So Good,Phius MEL,kWh,0,454
+primary_energy,primary_energy.phius_mel,Phius MEL,best,Best,Phius MEL,kWh,0,454
+primary_energy,primary_energy.aux_elec,Aux Elec,code_min,Code Min,Aux Elec,kWh,0,455
+primary_energy,primary_energy.aux_elec,Aux Elec,better,Better,Aux Elec,kWh,0,455
+primary_energy,primary_energy.aux_elec,Aux Elec,even_better,Even Better,Aux Elec,kWh,0,455
+primary_energy,primary_energy.aux_elec,Aux Elec,so_good,So Good,Aux Elec,kWh,0,455
+primary_energy,primary_energy.aux_elec,Aux Elec,best,Best,Aux Elec,kWh,0,455
+primary_energy,primary_energy.solar_pv,Solar PV,code_min,Code Min,Solar PV,kWh,0,456
+primary_energy,primary_energy.solar_pv,Solar PV,better,Better,Solar PV,kWh,0,456
+primary_energy,primary_energy.solar_pv,Solar PV,even_better,Even Better,Solar PV,kWh,0,456
+primary_energy,primary_energy.solar_pv,Solar PV,so_good,So Good,Solar PV,kWh,0,456
+primary_energy,primary_energy.solar_pv,Solar PV,best,Best,Solar PV,kWh,0,456
+certification_results,certification_results.heat_demand,Heat Demand,code_min,Code Min,Heat Demand,kWh/m2,45.3634843518,459
+certification_results,certification_results.heat_demand,Heat Demand,better,Better,Heat Demand,kWh/m2,45.3634843518,459
+certification_results,certification_results.heat_demand,Heat Demand,even_better,Even Better,Heat Demand,kWh/m2,45.3634843518,459
+certification_results,certification_results.heat_demand,Heat Demand,so_good,So Good,Heat Demand,kWh/m2,45.3634843518,459
+certification_results,certification_results.heat_demand,Heat Demand,best,Best,Heat Demand,kWh/m2,45.3634843518,459
+certification_results,certification_results.sensible_cooling_demand,Sensible Cooling Demand,code_min,Code Min,Sensible Cooling Demand,kWh/m2,8.64488475396,460
+certification_results,certification_results.sensible_cooling_demand,Sensible Cooling Demand,better,Better,Sensible Cooling Demand,kWh/m2,8.64488475396,460
+certification_results,certification_results.sensible_cooling_demand,Sensible Cooling Demand,even_better,Even Better,Sensible Cooling Demand,kWh/m2,8.64488475396,460
+certification_results,certification_results.sensible_cooling_demand,Sensible Cooling Demand,so_good,So Good,Sensible Cooling Demand,kWh/m2,8.64488475396,460
+certification_results,certification_results.sensible_cooling_demand,Sensible Cooling Demand,best,Best,Sensible Cooling Demand,kWh/m2,8.64488475396,460
+certification_results,certification_results.latent_cooling_demand,Latent Cooling Demand,code_min,Code Min,Latent Cooling Demand,kWh/m2,1.73199317467,461
+certification_results,certification_results.latent_cooling_demand,Latent Cooling Demand,better,Better,Latent Cooling Demand,kWh/m2,1.73199317467,461
+certification_results,certification_results.latent_cooling_demand,Latent Cooling Demand,even_better,Even Better,Latent Cooling Demand,kWh/m2,1.73199317467,461
+certification_results,certification_results.latent_cooling_demand,Latent Cooling Demand,so_good,So Good,Latent Cooling Demand,kWh/m2,1.73199317467,461
+certification_results,certification_results.latent_cooling_demand,Latent Cooling Demand,best,Best,Latent Cooling Demand,kWh/m2,1.73199317467,461
+certification_results,certification_results.total_cooling_demand,Total Cooling Demand,code_min,Code Min,Total Cooling Demand,kWh/m2,10.3768779286,462
+certification_results,certification_results.total_cooling_demand,Total Cooling Demand,better,Better,Total Cooling Demand,kWh/m2,10.3768779286,462
+certification_results,certification_results.total_cooling_demand,Total Cooling Demand,even_better,Even Better,Total Cooling Demand,kWh/m2,10.3768779286,462
+certification_results,certification_results.total_cooling_demand,Total Cooling Demand,so_good,So Good,Total Cooling Demand,kWh/m2,10.3768779286,462
+certification_results,certification_results.total_cooling_demand,Total Cooling Demand,best,Best,Total Cooling Demand,kWh/m2,10.3768779286,462
+certification_results,certification_results.peak_heat_load,Peak Heat Load,code_min,Code Min,Peak Heat Load,W/m2,32.7290838619,463
+certification_results,certification_results.peak_heat_load,Peak Heat Load,better,Better,Peak Heat Load,W/m2,32.7290838619,463
+certification_results,certification_results.peak_heat_load,Peak Heat Load,even_better,Even Better,Peak Heat Load,W/m2,32.7290838619,463
+certification_results,certification_results.peak_heat_load,Peak Heat Load,so_good,So Good,Peak Heat Load,W/m2,32.7290838619,463
+certification_results,certification_results.peak_heat_load,Peak Heat Load,best,Best,Peak Heat Load,W/m2,32.7290838619,463
+certification_results,certification_results.peak_cooling_load,Peak Cooling Load,code_min,Code Min,Peak Cooling Load,W/m2,13.7706515794,464
+certification_results,certification_results.peak_cooling_load,Peak Cooling Load,better,Better,Peak Cooling Load,W/m2,13.7706515794,464
+certification_results,certification_results.peak_cooling_load,Peak Cooling Load,even_better,Even Better,Peak Cooling Load,W/m2,13.7706515794,464
+certification_results,certification_results.peak_cooling_load,Peak Cooling Load,so_good,So Good,Peak Cooling Load,W/m2,13.7706515794,464
+certification_results,certification_results.peak_cooling_load,Peak Cooling Load,best,Best,Peak Cooling Load,W/m2,13.7706515794,464
+certification_results,certification_results.pe_demand,PE Demand,code_min,Code Min,PE Demand,kWh/m2,128.711068673,465
+certification_results,certification_results.pe_demand,PE Demand,better,Better,PE Demand,kWh/m2,128.711068673,465
+certification_results,certification_results.pe_demand,PE Demand,even_better,Even Better,PE Demand,kWh/m2,128.711068673,465
+certification_results,certification_results.pe_demand,PE Demand,so_good,So Good,PE Demand,kWh/m2,128.711068673,465
+certification_results,certification_results.pe_demand,PE Demand,best,Best,PE Demand,kWh/m2,128.711068673,465
+certification_results,certification_results.per_demand,PER Demand,code_min,Code Min,PER Demand,kWh/m2,61.219807926,466
+certification_results,certification_results.per_demand,PER Demand,better,Better,PER Demand,kWh/m2,61.219807926,466
+certification_results,certification_results.per_demand,PER Demand,even_better,Even Better,PER Demand,kWh/m2,61.219807926,466
+certification_results,certification_results.per_demand,PER Demand,so_good,So Good,PER Demand,kWh/m2,61.219807926,466
+certification_results,certification_results.per_demand,PER Demand,best,Best,PER Demand,kWh/m2,61.219807926,466
+airtightness,airtightness.nv_system,"nV,system",code_min,Code Min,nV system,%,0.405462573368,470
+airtightness,airtightness.nv_system,"nV,system",better,Better,nV system,%,0.405462573368,470
+airtightness,airtightness.nv_system,"nV,system",even_better,Even Better,nV system,%,0.405462573368,470
+airtightness,airtightness.nv_system,"nV,system",so_good,So Good,nV system,%,0.405462573368,470
+airtightness,airtightness.nv_system,"nV,system",best,Best,nV system,%,0.405462573368,470
+airtightness,airtightness.hhr,hHR,code_min,Code Min,hHR,%,0,471
+airtightness,airtightness.hhr,hHR,better,Better,hHR,%,0,471
+airtightness,airtightness.hhr,hHR,even_better,Even Better,hHR,%,0,471
+airtightness,airtightness.hhr,hHR,so_good,So Good,hHR,%,0,471
+airtightness,airtightness.hhr,hHR,best,Best,hHR,%,0,471
+airtightness,airtightness.wind_protection_coefficient_e,"Wind protection coefficient, e",code_min,Code Min,Wind protection coefficient  e,,0.07,472
+airtightness,airtightness.wind_protection_coefficient_e,"Wind protection coefficient, e",better,Better,Wind protection coefficient  e,,0.07,472
+airtightness,airtightness.wind_protection_coefficient_e,"Wind protection coefficient, e",even_better,Even Better,Wind protection coefficient  e,,0.07,472
+airtightness,airtightness.wind_protection_coefficient_e,"Wind protection coefficient, e",so_good,So Good,Wind protection coefficient  e,,0.07,472
+airtightness,airtightness.wind_protection_coefficient_e,"Wind protection coefficient, e",best,Best,Wind protection coefficient  e,,0.07,472
+airtightness,airtightness.wind_protection_coefficient_f,"Wind protection coefficient, f",code_min,Code Min,Wind protection coefficient  f,,15,473
+airtightness,airtightness.wind_protection_coefficient_f,"Wind protection coefficient, f",better,Better,Wind protection coefficient  f,,15,473
+airtightness,airtightness.wind_protection_coefficient_f,"Wind protection coefficient, f",even_better,Even Better,Wind protection coefficient  f,,15,473
+airtightness,airtightness.wind_protection_coefficient_f,"Wind protection coefficient, f",so_good,So Good,Wind protection coefficient  f,,15,473
+airtightness,airtightness.wind_protection_coefficient_f,"Wind protection coefficient, f",best,Best,Wind protection coefficient  f,,15,473
+airtightness,airtightness.vn50,Vn50,code_min,Code Min,Vn50,m3,1107.62797403,474
+airtightness,airtightness.vn50,Vn50,better,Better,Vn50,m3,1107.62797403,474
+airtightness,airtightness.vn50,Vn50,even_better,Even Better,Vn50,m3,1107.62797403,474
+airtightness,airtightness.vn50,Vn50,so_good,So Good,Vn50,m3,1107.62797403,474
+airtightness,airtightness.vn50,Vn50,best,Best,Vn50,m3,1107.62797403,474
+airtightness,airtightness.vv,VV,code_min,Code Min,VV,m3,917.158223124,475
+airtightness,airtightness.vv,VV,better,Better,VV,m3,917.158223124,475
+airtightness,airtightness.vv,VV,even_better,Even Better,VV,m3,917.158223124,475
+airtightness,airtightness.vv,VV,so_good,So Good,VV,m3,917.158223124,475
+airtightness,airtightness.vv,VV,best,Best,VV,m3,917.158223124,475
+airtightness,airtightness.gt,Gt,code_min,Code Min,Gt,kFh/a,73.3155986343,476
+airtightness,airtightness.gt,Gt,better,Better,Gt,kFh/a,73.3155986343,476
+airtightness,airtightness.gt,Gt,even_better,Even Better,Gt,kFh/a,73.3155986343,476
+airtightness,airtightness.gt,Gt,so_good,So Good,Gt,kFh/a,73.3155986343,476
+airtightness,airtightness.gt,Gt,best,Best,Gt,kFh/a,73.3155986343,476
+r_values,r_values.assembly_02,02ud-Ground_Wall,code_min,Code Min,02ud-Ground_Wall,m2,#DIV/0!,481
+r_values,r_values.assembly_02,02ud-Ground_Wall,better,Better,02ud-Ground_Wall,m2,#DIV/0!,481
+r_values,r_values.assembly_02,02ud-Ground_Wall,even_better,Even Better,02ud-Ground_Wall,m2,#DIV/0!,481
+r_values,r_values.assembly_02,02ud-Ground_Wall,so_good,So Good,02ud-Ground_Wall,m2,#DIV/0!,481
+r_values,r_values.assembly_02,02ud-Ground_Wall,best,Best,02ud-Ground_Wall,m2,#DIV/0!,481
+r_values,r_values.assembly_03,03ud-Generic Interior Wall,code_min,Code Min,03ud-Generic Interior Wall,m2,#DIV/0!,482
+r_values,r_values.assembly_03,03ud-Generic Interior Wall,better,Better,03ud-Generic Interior Wall,m2,#DIV/0!,482
+r_values,r_values.assembly_03,03ud-Generic Interior Wall,even_better,Even Better,03ud-Generic Interior Wall,m2,#DIV/0!,482
+r_values,r_values.assembly_03,03ud-Generic Interior Wall,so_good,So Good,03ud-Generic Interior Wall,m2,#DIV/0!,482
+r_values,r_values.assembly_03,03ud-Generic Interior Wall,best,Best,03ud-Generic Interior Wall,m2,#DIV/0!,482
+r_values,r_values.assembly_04,04ud-Ground_Floor,code_min,Code Min,04ud-Ground_Floor,m2,#DIV/0!,483
+r_values,r_values.assembly_04,04ud-Ground_Floor,better,Better,04ud-Ground_Floor,m2,#DIV/0!,483
+r_values,r_values.assembly_04,04ud-Ground_Floor,even_better,Even Better,04ud-Ground_Floor,m2,#DIV/0!,483
+r_values,r_values.assembly_04,04ud-Ground_Floor,so_good,So Good,04ud-Ground_Floor,m2,#DIV/0!,483
+r_values,r_values.assembly_04,04ud-Ground_Floor,best,Best,04ud-Ground_Floor,m2,#DIV/0!,483
+r_values,r_values.assembly_06,06ud-Ground_Roof,code_min,Code Min,06ud-Ground_Roof,m2,#DIV/0!,485
+r_values,r_values.assembly_06,06ud-Ground_Roof,better,Better,06ud-Ground_Roof,m2,#DIV/0!,485
+r_values,r_values.assembly_06,06ud-Ground_Roof,even_better,Even Better,06ud-Ground_Roof,m2,#DIV/0!,485
+r_values,r_values.assembly_06,06ud-Ground_Roof,so_good,So Good,06ud-Ground_Roof,m2,#DIV/0!,485
+r_values,r_values.assembly_06,06ud-Ground_Roof,best,Best,06ud-Ground_Roof,m2,#DIV/0!,485
+r_values,r_values.assembly_07,07ud-Ext_Wall,code_min,Code Min,07ud-Ext_Wall,m2,#DIV/0!,486
+r_values,r_values.assembly_07,07ud-Ext_Wall,better,Better,07ud-Ext_Wall,m2,#DIV/0!,486
+r_values,r_values.assembly_07,07ud-Ext_Wall,even_better,Even Better,07ud-Ext_Wall,m2,#DIV/0!,486
+r_values,r_values.assembly_07,07ud-Ext_Wall,so_good,So Good,07ud-Ext_Wall,m2,#DIV/0!,486
+r_values,r_values.assembly_07,07ud-Ext_Wall,best,Best,07ud-Ext_Wall,m2,#DIV/0!,486
+r_values,r_values.assembly_09,09ud-Ext_Roof,code_min,Code Min,09ud-Ext_Roof,m2,#DIV/0!,488
+r_values,r_values.assembly_09,09ud-Ext_Roof,better,Better,09ud-Ext_Roof,m2,#DIV/0!,488
+r_values,r_values.assembly_09,09ud-Ext_Roof,even_better,Even Better,09ud-Ext_Roof,m2,#DIV/0!,488
+r_values,r_values.assembly_09,09ud-Ext_Roof,so_good,So Good,09ud-Ext_Roof,m2,#DIV/0!,488
+r_values,r_values.assembly_09,09ud-Ext_Roof,best,Best,09ud-Ext_Roof,m2,#DIV/0!,488
+r_values,r_values.assembly_10,10ud-Ext_Floor,code_min,Code Min,10ud-Ext_Floor,m2,#DIV/0!,489
+r_values,r_values.assembly_10,10ud-Ext_Floor,better,Better,10ud-Ext_Floor,m2,#DIV/0!,489
+r_values,r_values.assembly_10,10ud-Ext_Floor,even_better,Even Better,10ud-Ext_Floor,m2,#DIV/0!,489
+r_values,r_values.assembly_10,10ud-Ext_Floor,so_good,So Good,10ud-Ext_Floor,m2,#DIV/0!,489
+r_values,r_values.assembly_10,10ud-Ext_Floor,best,Best,10ud-Ext_Floor,m2,#DIV/0!,489
+r_values,r_values.gt_a,Gt-A,code_min,Code Min,Gt-A,kFh/y,73.3155986343,490
+r_values,r_values.gt_a,Gt-A,better,Better,Gt-A,kFh/y,73.3155986343,490
+r_values,r_values.gt_a,Gt-A,even_better,Even Better,Gt-A,kFh/y,73.3155986343,490
+r_values,r_values.gt_a,Gt-A,so_good,So Good,Gt-A,kFh/y,73.3155986343,490
+r_values,r_values.gt_a,Gt-A,best,Best,Gt-A,kFh/y,73.3155986343,490
+r_values,r_values.gt_b,Gt-B,code_min,Code Min,Gt-B,kFh/y,16.3643295259,491
+r_values,r_values.gt_b,Gt-B,better,Better,Gt-B,kFh/y,16.3643295259,491
+r_values,r_values.gt_b,Gt-B,even_better,Even Better,Gt-B,kFh/y,16.3643295259,491
+r_values,r_values.gt_b,Gt-B,so_good,So Good,Gt-B,kFh/y,16.3643295259,491
+r_values,r_values.gt_b,Gt-B,best,Best,Gt-B,kFh/y,16.3643295259,491
+certification_compliant,certification_compliant.certification_compliant_2,Certification Compliant?,code_min,Code Min,Certification Compliant?,,No,493
+certification_compliant,certification_compliant.certification_compliant_2,Certification Compliant?,better,Better,Certification Compliant?,,No,493
+certification_compliant,certification_compliant.certification_compliant_2,Certification Compliant?,even_better,Even Better,Certification Compliant?,,No,493
+certification_compliant,certification_compliant.certification_compliant_2,Certification Compliant?,so_good,So Good,Certification Compliant?,,No,493
+certification_compliant,certification_compliant.certification_compliant_2,Certification Compliant?,best,Best,Certification Compliant?,,No,493
+peak_loads,peak_loads.peak_heat_load,Peak Heat Load,code_min,Code Min,Peak Heat Load,Btuh,40969.9280234,497
+peak_loads,peak_loads.peak_heat_load,Peak Heat Load,better,Better,Peak Heat Load,Btuh,40969.9280234,497
+peak_loads,peak_loads.peak_heat_load,Peak Heat Load,even_better,Even Better,Peak Heat Load,Btuh,40969.9280234,497
+peak_loads,peak_loads.peak_heat_load,Peak Heat Load,so_good,So Good,Peak Heat Load,Btuh,40969.9280234,497
+peak_loads,peak_loads.peak_heat_load,Peak Heat Load,best,Best,Peak Heat Load,Btuh,40969.9280234,497
+peak_loads,peak_loads.peak_sensible_cooling_load,Peak Sensible Cooling Load,code_min,Code Min,Peak Sensible Cooling Load,Btuh,17237.9589488,498
+peak_loads,peak_loads.peak_sensible_cooling_load,Peak Sensible Cooling Load,better,Better,Peak Sensible Cooling Load,Btuh,17237.9589488,498
+peak_loads,peak_loads.peak_sensible_cooling_load,Peak Sensible Cooling Load,even_better,Even Better,Peak Sensible Cooling Load,Btuh,17237.9589488,498
+peak_loads,peak_loads.peak_sensible_cooling_load,Peak Sensible Cooling Load,so_good,So Good,Peak Sensible Cooling Load,Btuh,17237.9589488,498
+peak_loads,peak_loads.peak_sensible_cooling_load,Peak Sensible Cooling Load,best,Best,Peak Sensible Cooling Load,Btuh,17237.9589488,498
+peak_loads,peak_loads.peak_latent_cooling_load,Peak Latent Cooling Load,code_min,Code Min,Peak Latent Cooling Load,Btuh,6872.74147631,499
+peak_loads,peak_loads.peak_latent_cooling_load,Peak Latent Cooling Load,better,Better,Peak Latent Cooling Load,Btuh,6872.74147631,499
+peak_loads,peak_loads.peak_latent_cooling_load,Peak Latent Cooling Load,even_better,Even Better,Peak Latent Cooling Load,Btuh,6872.74147631,499
+peak_loads,peak_loads.peak_latent_cooling_load,Peak Latent Cooling Load,so_good,So Good,Peak Latent Cooling Load,Btuh,6872.74147631,499
+peak_loads,peak_loads.peak_latent_cooling_load,Peak Latent Cooling Load,best,Best,Peak Latent Cooling Load,Btuh,6872.74147631,499
+co2e,co2e.heating,Heating,code_min,Code Min,Heating,tonsCO2e,2.91121699092,502
+co2e,co2e.heating,Heating,better,Better,Heating,tonsCO2e,2.91121699092,502
+co2e,co2e.heating,Heating,even_better,Even Better,Heating,tonsCO2e,2.91121699092,502
+co2e,co2e.heating,Heating,so_good,So Good,Heating,tonsCO2e,2.91121699092,502
+co2e,co2e.heating,Heating,best,Best,Heating,tonsCO2e,2.91121699092,502
+co2e,co2e.cooling,Cooling,code_min,Code Min,Cooling,tonsCO2e,0.687298666785,503
+co2e,co2e.cooling,Cooling,better,Better,Cooling,tonsCO2e,0.687298666785,503
+co2e,co2e.cooling,Cooling,even_better,Even Better,Cooling,tonsCO2e,0.687298666785,503
+co2e,co2e.cooling,Cooling,so_good,So Good,Cooling,tonsCO2e,0.687298666785,503
+co2e,co2e.cooling,Cooling,best,Best,Cooling,tonsCO2e,0.687298666785,503
+co2e,co2e.dhw,DHW,code_min,Code Min,DHW,tonsCO2e,0.990552475124,504
+co2e,co2e.dhw,DHW,better,Better,DHW,tonsCO2e,0.990552475124,504
+co2e,co2e.dhw,DHW,even_better,Even Better,DHW,tonsCO2e,0.990552475124,504
+co2e,co2e.dhw,DHW,so_good,So Good,DHW,tonsCO2e,0.990552475124,504
+co2e,co2e.dhw,DHW,best,Best,DHW,tonsCO2e,0.990552475124,504
+co2e,co2e.dishwashing,Dishwashing,code_min,Code Min,Dishwashing,tonsCO2e,0.0327773905905,505
+co2e,co2e.dishwashing,Dishwashing,better,Better,Dishwashing,tonsCO2e,0.0327773905905,505
+co2e,co2e.dishwashing,Dishwashing,even_better,Even Better,Dishwashing,tonsCO2e,0.0327773905905,505
+co2e,co2e.dishwashing,Dishwashing,so_good,So Good,Dishwashing,tonsCO2e,0.0327773905905,505
+co2e,co2e.dishwashing,Dishwashing,best,Best,Dishwashing,tonsCO2e,0.0327773905905,505
+co2e,co2e.clothes_washing,Clothes Washing,code_min,Code Min,Clothes Washing,tonsCO2e,0.0188113034217,506
+co2e,co2e.clothes_washing,Clothes Washing,better,Better,Clothes Washing,tonsCO2e,0.0188113034217,506
+co2e,co2e.clothes_washing,Clothes Washing,even_better,Even Better,Clothes Washing,tonsCO2e,0.0188113034217,506
+co2e,co2e.clothes_washing,Clothes Washing,so_good,So Good,Clothes Washing,tonsCO2e,0.0188113034217,506
+co2e,co2e.clothes_washing,Clothes Washing,best,Best,Clothes Washing,tonsCO2e,0.0188113034217,506
+co2e,co2e.clothes_drying,Clothes Drying,code_min,Code Min,Clothes Drying,tonsCO2e,0.0892676757729,507
+co2e,co2e.clothes_drying,Clothes Drying,better,Better,Clothes Drying,tonsCO2e,0.0892676757729,507
+co2e,co2e.clothes_drying,Clothes Drying,even_better,Even Better,Clothes Drying,tonsCO2e,0.0892676757729,507
+co2e,co2e.clothes_drying,Clothes Drying,so_good,So Good,Clothes Drying,tonsCO2e,0.0892676757729,507
+co2e,co2e.clothes_drying,Clothes Drying,best,Best,Clothes Drying,tonsCO2e,0.0892676757729,507
+co2e,co2e.refrigerator,Refrigerator,code_min,Code Min,Refrigerator,tonsCO2e,0.128181635568,508
+co2e,co2e.refrigerator,Refrigerator,better,Better,Refrigerator,tonsCO2e,0.128181635568,508
+co2e,co2e.refrigerator,Refrigerator,even_better,Even Better,Refrigerator,tonsCO2e,0.128181635568,508
+co2e,co2e.refrigerator,Refrigerator,so_good,So Good,Refrigerator,tonsCO2e,0.128181635568,508
+co2e,co2e.refrigerator,Refrigerator,best,Best,Refrigerator,tonsCO2e,0.128181635568,508
+co2e,co2e.cooking,Cooking,code_min,Code Min,Cooking,tonsCO2e,0.117547683501,509
+co2e,co2e.cooking,Cooking,better,Better,Cooking,tonsCO2e,0.117547683501,509
+co2e,co2e.cooking,Cooking,even_better,Even Better,Cooking,tonsCO2e,0.117547683501,509
+co2e,co2e.cooking,Cooking,so_good,So Good,Cooking,tonsCO2e,0.117547683501,509
+co2e,co2e.cooking,Cooking,best,Best,Cooking,tonsCO2e,0.117547683501,509
+co2e,co2e.phi_lighting,PHI Lighting,code_min,Code Min,PHI Lighting,tonsCO2e,0.0568742711852,510
+co2e,co2e.phi_lighting,PHI Lighting,better,Better,PHI Lighting,tonsCO2e,0.0568742711852,510
+co2e,co2e.phi_lighting,PHI Lighting,even_better,Even Better,PHI Lighting,tonsCO2e,0.0568742711852,510
+co2e,co2e.phi_lighting,PHI Lighting,so_good,So Good,PHI Lighting,tonsCO2e,0.0568742711852,510
+co2e,co2e.phi_lighting,PHI Lighting,best,Best,PHI Lighting,tonsCO2e,0.0568742711852,510
+co2e,co2e.phi_consumer_elec,PHI Consumer Elec.,code_min,Code Min,PHI Consumer Elec.,tonsCO2e,0.176336663529,511
+co2e,co2e.phi_consumer_elec,PHI Consumer Elec.,better,Better,PHI Consumer Elec.,tonsCO2e,0.176336663529,511
+co2e,co2e.phi_consumer_elec,PHI Consumer Elec.,even_better,Even Better,PHI Consumer Elec.,tonsCO2e,0.176336663529,511
+co2e,co2e.phi_consumer_elec,PHI Consumer Elec.,so_good,So Good,PHI Consumer Elec.,tonsCO2e,0.176336663529,511
+co2e,co2e.phi_consumer_elec,PHI Consumer Elec.,best,Best,PHI Consumer Elec.,tonsCO2e,0.176336663529,511
+co2e,co2e.phi_small_appliances,PHI Small Appliances,code_min,Code Min,PHI Small Appliances,tonsCO2e,0.0189467159492,512
+co2e,co2e.phi_small_appliances,PHI Small Appliances,better,Better,PHI Small Appliances,tonsCO2e,0.0189467159492,512
+co2e,co2e.phi_small_appliances,PHI Small Appliances,even_better,Even Better,PHI Small Appliances,tonsCO2e,0.0189467159492,512
+co2e,co2e.phi_small_appliances,PHI Small Appliances,so_good,So Good,PHI Small Appliances,tonsCO2e,0.0189467159492,512
+co2e,co2e.phi_small_appliances,PHI Small Appliances,best,Best,PHI Small Appliances,tonsCO2e,0.0189467159492,512
+co2e,co2e.phius_int_lighting,Phius Int. Lighting,code_min,Code Min,Phius Int. Lighting,tonsCO2e,0,513
+co2e,co2e.phius_int_lighting,Phius Int. Lighting,better,Better,Phius Int. Lighting,tonsCO2e,0,513
+co2e,co2e.phius_int_lighting,Phius Int. Lighting,even_better,Even Better,Phius Int. Lighting,tonsCO2e,0,513
+co2e,co2e.phius_int_lighting,Phius Int. Lighting,so_good,So Good,Phius Int. Lighting,tonsCO2e,0,513
+co2e,co2e.phius_int_lighting,Phius Int. Lighting,best,Best,Phius Int. Lighting,tonsCO2e,0,513
+co2e,co2e.phius_ext_lighting,Phius Ext. Lighting,code_min,Code Min,Phius Ext. Lighting,tonsCO2e,0,514
+co2e,co2e.phius_ext_lighting,Phius Ext. Lighting,better,Better,Phius Ext. Lighting,tonsCO2e,0,514
+co2e,co2e.phius_ext_lighting,Phius Ext. Lighting,even_better,Even Better,Phius Ext. Lighting,tonsCO2e,0,514
+co2e,co2e.phius_ext_lighting,Phius Ext. Lighting,so_good,So Good,Phius Ext. Lighting,tonsCO2e,0,514
+co2e,co2e.phius_ext_lighting,Phius Ext. Lighting,best,Best,Phius Ext. Lighting,tonsCO2e,0,514
+co2e,co2e.phius_mel,Phius MEL,code_min,Code Min,Phius MEL,tonsCO2e,0,515
+co2e,co2e.phius_mel,Phius MEL,better,Better,Phius MEL,tonsCO2e,0,515
+co2e,co2e.phius_mel,Phius MEL,even_better,Even Better,Phius MEL,tonsCO2e,0,515
+co2e,co2e.phius_mel,Phius MEL,so_good,So Good,Phius MEL,tonsCO2e,0,515
+co2e,co2e.phius_mel,Phius MEL,best,Best,Phius MEL,tonsCO2e,0,515
+co2e,co2e.aux_elec,Aux Elec,code_min,Code Min,Aux Elec,tonsCO2e,0,516
+co2e,co2e.aux_elec,Aux Elec,better,Better,Aux Elec,tonsCO2e,0,516
+co2e,co2e.aux_elec,Aux Elec,even_better,Even Better,Aux Elec,tonsCO2e,0,516
+co2e,co2e.aux_elec,Aux Elec,so_good,So Good,Aux Elec,tonsCO2e,0,516
+co2e,co2e.aux_elec,Aux Elec,best,Best,Aux Elec,tonsCO2e,0,516
+co2e,co2e.ipcc_limit,IPCC Limit,code_min,Code Min,IPCC Limit,tonsCO2e,3.2668631965,517
+co2e,co2e.ipcc_limit,IPCC Limit,better,Better,IPCC Limit,tonsCO2e,3.2668631965,517
+co2e,co2e.ipcc_limit,IPCC Limit,even_better,Even Better,IPCC Limit,tonsCO2e,3.2668631965,517
+co2e,co2e.ipcc_limit,IPCC Limit,so_good,So Good,IPCC Limit,tonsCO2e,3.2668631965,517
+co2e,co2e.ipcc_limit,IPCC Limit,best,Best,IPCC Limit,tonsCO2e,3.2668631965,517
+primary_energy_renewable,primary_energy_renewable.heating,Heating,code_min,Code Min,Heating,kWh,15170.2494703,520
+primary_energy_renewable,primary_energy_renewable.heating,Heating,better,Better,Heating,kWh,15170.2494703,520
+primary_energy_renewable,primary_energy_renewable.heating,Heating,even_better,Even Better,Heating,kWh,15170.2494703,520
+primary_energy_renewable,primary_energy_renewable.heating,Heating,so_good,So Good,Heating,kWh,15170.2494703,520
+primary_energy_renewable,primary_energy_renewable.heating,Heating,best,Best,Heating,kWh,15170.2494703,520
+primary_energy_renewable,primary_energy_renewable.cooling,Cooling,code_min,Code Min,Cooling,kWh,3700.87218183,521
+primary_energy_renewable,primary_energy_renewable.cooling,Cooling,better,Better,Cooling,kWh,3700.87218183,521
+primary_energy_renewable,primary_energy_renewable.cooling,Cooling,even_better,Even Better,Cooling,kWh,3700.87218183,521
+primary_energy_renewable,primary_energy_renewable.cooling,Cooling,so_good,So Good,Cooling,kWh,3700.87218183,521
+primary_energy_renewable,primary_energy_renewable.cooling,Cooling,best,Best,Cooling,kWh,3700.87218183,521
+primary_energy_renewable,primary_energy_renewable.dhw,DHW,code_min,Code Min,DHW,kWh,3957.32951527,522
+primary_energy_renewable,primary_energy_renewable.dhw,DHW,better,Better,DHW,kWh,3957.32951527,522
+primary_energy_renewable,primary_energy_renewable.dhw,DHW,even_better,Even Better,DHW,kWh,3957.32951527,522
+primary_energy_renewable,primary_energy_renewable.dhw,DHW,so_good,So Good,DHW,kWh,3957.32951527,522
+primary_energy_renewable,primary_energy_renewable.dhw,DHW,best,Best,DHW,kWh,3957.32951527,522
+primary_energy_renewable,primary_energy_renewable.dishwashing,Dishwashing,code_min,Code Min,Dishwashing,kWh,136.641464733,523
+primary_energy_renewable,primary_energy_renewable.dishwashing,Dishwashing,better,Better,Dishwashing,kWh,136.641464733,523
+primary_energy_renewable,primary_energy_renewable.dishwashing,Dishwashing,even_better,Even Better,Dishwashing,kWh,136.641464733,523
+primary_energy_renewable,primary_energy_renewable.dishwashing,Dishwashing,so_good,So Good,Dishwashing,kWh,136.641464733,523
+primary_energy_renewable,primary_energy_renewable.dishwashing,Dishwashing,best,Best,Dishwashing,kWh,136.641464733,523
+primary_energy_renewable,primary_energy_renewable.clothes_washing,Clothes Washing,code_min,Code Min,Clothes Washing,kWh,78.4200330403,524
+primary_energy_renewable,primary_energy_renewable.clothes_washing,Clothes Washing,better,Better,Clothes Washing,kWh,78.4200330403,524
+primary_energy_renewable,primary_energy_renewable.clothes_washing,Clothes Washing,even_better,Even Better,Clothes Washing,kWh,78.4200330403,524
+primary_energy_renewable,primary_energy_renewable.clothes_washing,Clothes Washing,so_good,So Good,Clothes Washing,kWh,78.4200330403,524
+primary_energy_renewable,primary_energy_renewable.clothes_washing,Clothes Washing,best,Best,Clothes Washing,kWh,78.4200330403,524
+primary_energy_renewable,primary_energy_renewable.clothes_drying,Clothes Drying,code_min,Code Min,Clothes Drying,kWh,372.136578026,525
+primary_energy_renewable,primary_energy_renewable.clothes_drying,Clothes Drying,better,Better,Clothes Drying,kWh,372.136578026,525
+primary_energy_renewable,primary_energy_renewable.clothes_drying,Clothes Drying,even_better,Even Better,Clothes Drying,kWh,372.136578026,525
+primary_energy_renewable,primary_energy_renewable.clothes_drying,Clothes Drying,so_good,So Good,Clothes Drying,kWh,372.136578026,525
+primary_energy_renewable,primary_energy_renewable.clothes_drying,Clothes Drying,best,Best,Clothes Drying,kWh,372.136578026,525
+primary_energy_renewable,primary_energy_renewable.refrigerator,Refrigerator,code_min,Code Min,Refrigerator,kWh,534.36,526
+primary_energy_renewable,primary_energy_renewable.refrigerator,Refrigerator,better,Better,Refrigerator,kWh,534.36,526
+primary_energy_renewable,primary_energy_renewable.refrigerator,Refrigerator,even_better,Even Better,Refrigerator,kWh,534.36,526
+primary_energy_renewable,primary_energy_renewable.refrigerator,Refrigerator,so_good,So Good,Refrigerator,kWh,534.36,526
+primary_energy_renewable,primary_energy_renewable.refrigerator,Refrigerator,best,Best,Refrigerator,kWh,534.36,526
+primary_energy_renewable,primary_energy_renewable.cooking,Cooking,code_min,Code Min,Cooking,kWh,490.029479475,527
+primary_energy_renewable,primary_energy_renewable.cooking,Cooking,better,Better,Cooking,kWh,490.029479475,527
+primary_energy_renewable,primary_energy_renewable.cooking,Cooking,even_better,Even Better,Cooking,kWh,490.029479475,527
+primary_energy_renewable,primary_energy_renewable.cooking,Cooking,so_good,So Good,Cooking,kWh,490.029479475,527
+primary_energy_renewable,primary_energy_renewable.cooking,Cooking,best,Best,Cooking,kWh,490.029479475,527
+primary_energy_renewable,primary_energy_renewable.phi_lighting,PHI Lighting,code_min,Code Min,PHI Lighting,kWh,237.095863349,528
+primary_energy_renewable,primary_energy_renewable.phi_lighting,PHI Lighting,better,Better,PHI Lighting,kWh,237.095863349,528
+primary_energy_renewable,primary_energy_renewable.phi_lighting,PHI Lighting,even_better,Even Better,PHI Lighting,kWh,237.095863349,528
+primary_energy_renewable,primary_energy_renewable.phi_lighting,PHI Lighting,so_good,So Good,PHI Lighting,kWh,237.095863349,528
+primary_energy_renewable,primary_energy_renewable.phi_lighting,PHI Lighting,best,Best,PHI Lighting,kWh,237.095863349,528
+primary_energy_renewable,primary_energy_renewable.phi_consumer_elec,PHI Consumer Elec.,code_min,Code Min,PHI Consumer Elec.,kWh,735.107327236,529
+primary_energy_renewable,primary_energy_renewable.phi_consumer_elec,PHI Consumer Elec.,better,Better,PHI Consumer Elec.,kWh,735.107327236,529
+primary_energy_renewable,primary_energy_renewable.phi_consumer_elec,PHI Consumer Elec.,even_better,Even Better,PHI Consumer Elec.,kWh,735.107327236,529
+primary_energy_renewable,primary_energy_renewable.phi_consumer_elec,PHI Consumer Elec.,so_good,So Good,PHI Consumer Elec.,kWh,735.107327236,529
+primary_energy_renewable,primary_energy_renewable.phi_consumer_elec,PHI Consumer Elec.,best,Best,PHI Consumer Elec.,kWh,735.107327236,529
+primary_energy_renewable,primary_energy_renewable.phi_small_appliances,PHI Small Appliances,code_min,Code Min,PHI Small Appliances,kWh,78.9845369794,530
+primary_energy_renewable,primary_energy_renewable.phi_small_appliances,PHI Small Appliances,better,Better,PHI Small Appliances,kWh,78.9845369794,530
+primary_energy_renewable,primary_energy_renewable.phi_small_appliances,PHI Small Appliances,even_better,Even Better,PHI Small Appliances,kWh,78.9845369794,530
+primary_energy_renewable,primary_energy_renewable.phi_small_appliances,PHI Small Appliances,so_good,So Good,PHI Small Appliances,kWh,78.9845369794,530
+primary_energy_renewable,primary_energy_renewable.phi_small_appliances,PHI Small Appliances,best,Best,PHI Small Appliances,kWh,78.9845369794,530
+primary_energy_renewable,primary_energy_renewable.phius_int_lighting,Phius Int. Lighting,code_min,Code Min,Phius Int. Lighting,kWh,0,531
+primary_energy_renewable,primary_energy_renewable.phius_int_lighting,Phius Int. Lighting,better,Better,Phius Int. Lighting,kWh,0,531
+primary_energy_renewable,primary_energy_renewable.phius_int_lighting,Phius Int. Lighting,even_better,Even Better,Phius Int. Lighting,kWh,0,531
+primary_energy_renewable,primary_energy_renewable.phius_int_lighting,Phius Int. Lighting,so_good,So Good,Phius Int. Lighting,kWh,0,531
+primary_energy_renewable,primary_energy_renewable.phius_int_lighting,Phius Int. Lighting,best,Best,Phius Int. Lighting,kWh,0,531
+primary_energy_renewable,primary_energy_renewable.phius_ext_lighting,Phius Ext. Lighting,code_min,Code Min,Phius Ext. Lighting,kWh,0,532
+primary_energy_renewable,primary_energy_renewable.phius_ext_lighting,Phius Ext. Lighting,better,Better,Phius Ext. Lighting,kWh,0,532
+primary_energy_renewable,primary_energy_renewable.phius_ext_lighting,Phius Ext. Lighting,even_better,Even Better,Phius Ext. Lighting,kWh,0,532
+primary_energy_renewable,primary_energy_renewable.phius_ext_lighting,Phius Ext. Lighting,so_good,So Good,Phius Ext. Lighting,kWh,0,532
+primary_energy_renewable,primary_energy_renewable.phius_ext_lighting,Phius Ext. Lighting,best,Best,Phius Ext. Lighting,kWh,0,532
+primary_energy_renewable,primary_energy_renewable.phius_mel,Phius MEL,code_min,Code Min,Phius MEL,kWh,0,533
+primary_energy_renewable,primary_energy_renewable.phius_mel,Phius MEL,better,Better,Phius MEL,kWh,0,533
+primary_energy_renewable,primary_energy_renewable.phius_mel,Phius MEL,even_better,Even Better,Phius MEL,kWh,0,533
+primary_energy_renewable,primary_energy_renewable.phius_mel,Phius MEL,so_good,So Good,Phius MEL,kWh,0,533
+primary_energy_renewable,primary_energy_renewable.phius_mel,Phius MEL,best,Best,Phius MEL,kWh,0,533
+primary_energy_renewable,primary_energy_renewable.aux_elec,Aux Elec,code_min,Code Min,Aux Elec,kWh,0,534
+primary_energy_renewable,primary_energy_renewable.aux_elec,Aux Elec,better,Better,Aux Elec,kWh,0,534
+primary_energy_renewable,primary_energy_renewable.aux_elec,Aux Elec,even_better,Even Better,Aux Elec,kWh,0,534
+primary_energy_renewable,primary_energy_renewable.aux_elec,Aux Elec,so_good,So Good,Aux Elec,kWh,0,534
+primary_energy_renewable,primary_energy_renewable.aux_elec,Aux Elec,best,Best,Aux Elec,kWh,0,534
+primary_energy_renewable,primary_energy_renewable.solar_pv,Solar PV,code_min,Code Min,Solar PV,kWh,0,535
+primary_energy_renewable,primary_energy_renewable.solar_pv,Solar PV,better,Better,Solar PV,kWh,0,535
+primary_energy_renewable,primary_energy_renewable.solar_pv,Solar PV,even_better,Even Better,Solar PV,kWh,0,535
+primary_energy_renewable,primary_energy_renewable.solar_pv,Solar PV,so_good,So Good,Solar PV,kWh,0,535
+primary_energy_renewable,primary_energy_renewable.solar_pv,Solar PV,best,Best,Solar PV,kWh,0,535
+report_inputs,report_inputs.envelope_air_leakage_rate_q50,Envelope Air Leakage Rate (q50),code_min,Code Min,Envelope Air Leakage Rate (q50),cfm/ft2,0.378355705669,345
+report_inputs,report_inputs.cold_air_duct_length_ea,Cold Air Duct Length (ea),code_min,Code Min,Cold Air Duct Length (ea),ft,16.404199475,354
+report_inputs,report_inputs.cold_air_duct_insulation_thickness,Cold Air Duct Insulation Thickness,code_min,Code Min,Cold Air Duct Insulation Thickness,inches,2.047244108,355
+report_inputs,report_inputs.heat_demand_annual,Heat Demand,code_min,Code Min,Heat Demand,kWh/yr,16642.1970811,459
+report_inputs,report_inputs.cooling_demand_annual,Total Cooling Demand,code_min,Code Min,Cooling Demand,kWh/yr,3806.89556903,462
+report_inputs,report_inputs.total_primary_energy,Total Primary Energy,code_min,Code Min,Total Primary Energy,kWh/yr,47219.3660162,
+report_inputs,report_inputs.total_site_energy,Total Site Energy,code_min,Code Min,Total Site Energy,kWh/yr,18161.2946216,
+report_inputs,report_inputs.envelope_air_leakage_rate_q50,Envelope Air Leakage Rate (q50),better,Better,Envelope Air Leakage Rate (q50),cfm/ft2,0.378355705669,345
+report_inputs,report_inputs.cold_air_duct_length_ea,Cold Air Duct Length (ea),better,Better,Cold Air Duct Length (ea),ft,16.404199475,354
+report_inputs,report_inputs.cold_air_duct_insulation_thickness,Cold Air Duct Insulation Thickness,better,Better,Cold Air Duct Insulation Thickness,inches,2.047244108,355
+report_inputs,report_inputs.heat_demand_annual,Heat Demand,better,Better,Heat Demand,kWh/yr,16642.1970811,459
+report_inputs,report_inputs.cooling_demand_annual,Total Cooling Demand,better,Better,Cooling Demand,kWh/yr,3806.89556903,462
+report_inputs,report_inputs.total_primary_energy,Total Primary Energy,better,Better,Total Primary Energy,kWh/yr,47219.3660162,
+report_inputs,report_inputs.total_site_energy,Total Site Energy,better,Better,Total Site Energy,kWh/yr,18161.2946216,
+report_inputs,report_inputs.envelope_air_leakage_rate_q50,Envelope Air Leakage Rate (q50),even_better,Even Better,Envelope Air Leakage Rate (q50),cfm/ft2,0.378355705669,345
+report_inputs,report_inputs.cold_air_duct_length_ea,Cold Air Duct Length (ea),even_better,Even Better,Cold Air Duct Length (ea),ft,16.404199475,354
+report_inputs,report_inputs.cold_air_duct_insulation_thickness,Cold Air Duct Insulation Thickness,even_better,Even Better,Cold Air Duct Insulation Thickness,inches,2.047244108,355
+report_inputs,report_inputs.heat_demand_annual,Heat Demand,even_better,Even Better,Heat Demand,kWh/yr,16642.1970811,459
+report_inputs,report_inputs.cooling_demand_annual,Total Cooling Demand,even_better,Even Better,Cooling Demand,kWh/yr,3806.89556903,462
+report_inputs,report_inputs.total_primary_energy,Total Primary Energy,even_better,Even Better,Total Primary Energy,kWh/yr,47219.3660162,
+report_inputs,report_inputs.total_site_energy,Total Site Energy,even_better,Even Better,Total Site Energy,kWh/yr,18161.2946216,
+report_inputs,report_inputs.envelope_air_leakage_rate_q50,Envelope Air Leakage Rate (q50),so_good,So Good,Envelope Air Leakage Rate (q50),cfm/ft2,0.378355705669,345
+report_inputs,report_inputs.cold_air_duct_length_ea,Cold Air Duct Length (ea),so_good,So Good,Cold Air Duct Length (ea),ft,16.404199475,354
+report_inputs,report_inputs.cold_air_duct_insulation_thickness,Cold Air Duct Insulation Thickness,so_good,So Good,Cold Air Duct Insulation Thickness,inches,2.047244108,355
+report_inputs,report_inputs.heat_demand_annual,Heat Demand,so_good,So Good,Heat Demand,kWh/yr,16642.1970811,459
+report_inputs,report_inputs.cooling_demand_annual,Total Cooling Demand,so_good,So Good,Cooling Demand,kWh/yr,3806.89556903,462
+report_inputs,report_inputs.total_primary_energy,Total Primary Energy,so_good,So Good,Total Primary Energy,kWh/yr,47219.3660162,
+report_inputs,report_inputs.total_site_energy,Total Site Energy,so_good,So Good,Total Site Energy,kWh/yr,18161.2946216,
+report_inputs,report_inputs.envelope_air_leakage_rate_q50,Envelope Air Leakage Rate (q50),best,Best,Envelope Air Leakage Rate (q50),cfm/ft2,0.378355705669,345
+report_inputs,report_inputs.cold_air_duct_length_ea,Cold Air Duct Length (ea),best,Best,Cold Air Duct Length (ea),ft,16.404199475,354
+report_inputs,report_inputs.cold_air_duct_insulation_thickness,Cold Air Duct Insulation Thickness,best,Best,Cold Air Duct Insulation Thickness,inches,2.047244108,355
+report_inputs,report_inputs.heat_demand_annual,Heat Demand,best,Best,Heat Demand,kWh/yr,16642.1970811,459
+report_inputs,report_inputs.cooling_demand_annual,Total Cooling Demand,best,Best,Cooling Demand,kWh/yr,3806.89556903,462
+report_inputs,report_inputs.total_primary_energy,Total Primary Energy,best,Best,Total Primary Energy,kWh/yr,47219.3660162,
+report_inputs,report_inputs.total_site_energy,Total Site Energy,best,Best,Total Site Energy,kWh/yr,18161.2946216,
