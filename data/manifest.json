@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0.0",
   "phpp_version": "10.6",
-  "generated_at": "2026-09-11T16:12:36.853102Z",
+  "generated_at": "2026-09-11T17:12:31.691279Z",
   "generator": "btwr@0.0.1",
   "status": "ok",
   "variants": [
@@ -14,42 +14,34 @@
       "source_column": "G"
     },
     {
-      "id": "better",
-      "name": "Better",
+      "id": "ph_assemblies",
+      "name": "PH Assemblies",
       "order": 1,
       "color": "auto",
       "recommended": false,
       "source_column": "H"
     },
     {
-      "id": "even_better",
-      "name": "Even Better",
+      "id": "airtightness_erv",
+      "name": "Airtightness + ERV",
       "order": 2,
       "color": "auto",
       "recommended": false,
       "source_column": "I"
     },
     {
-      "id": "so_good",
-      "name": "So Good",
+      "id": "ph_windows",
+      "name": "PH Windows",
       "order": 3,
       "color": "auto",
-      "recommended": false,
-      "source_column": "J"
-    },
-    {
-      "id": "best",
-      "name": "Best",
-      "order": 4,
-      "color": "auto",
       "recommended": true,
-      "source_column": "K"
+      "source_column": "J"
     }
   ],
-  "recommended_variant_id": "best",
+  "recommended_variant_id": "ph_windows",
   "source_workbook": {
     "path": "/Users/johnmitchell/Dropbox/bldgtyp/2620 {IA} 127 Lincoln Place/07_PHPP/2620 127 Lincoln Place.xlsx",
-    "sha256": "2fe432dd099fcf8e767cbbd656922e8d1aeadad576dbc6b39a7989ea6612c989",
-    "size_bytes": 13008646
+    "sha256": "ca308caf442606bfe2ddeb13a5bfbb095453cfb14eabc70d3d4239e0896c5193",
+    "size_bytes": 13015129
   }
 }
