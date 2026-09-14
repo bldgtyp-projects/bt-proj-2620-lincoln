@@ -6,21 +6,21 @@ building_name: 127 Lincoln Place
 phase: Design Analysis
 report_date: '2026-09-04'
 prepared_by: bldgtyp, llc
-contact_email: ed@bldgtyp.com
+contact_email: john@bldgtyp.com
 target_standard: TBD
 certification_program: TBD
 certification_path: TBD
-recommended_variant_id: null
+recommended_variant_id: ''
 building:
-  address: TBD
-  city: TBD
-  state: TBD
-  climate_zone: TBD
-  building_type: TBD
-  total_num_occupants: null
+  address: 127 Lincoln Place
+  city: Brooklyn
+  state: NY
+  climate_zone: 4A
+  building_type: Row House
+  total_num_occupants: 3.3
 source_files:
   phpp_path: ../07_PHPP/2620 127 Lincoln Place.xlsx
-  cad_files_received_date: null
+  cad_files_received_date: 09/08/2026
   data_dir: data
   assets_dir: public/assets
 publishing:
