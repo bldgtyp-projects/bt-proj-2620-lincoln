@@ -308,7 +308,7 @@ site_energy,site_energy.heating,Heating,ph_assemblies,PH Assemblies,Heating,kWh,
 site_energy,site_energy.heating,Heating,airtightness_erv,Airtightness + ERV,Heating,kWh,5478.7689808,423
 site_energy,site_energy.heating,Heating,ph_windows,PH Windows,Heating,kWh,3284.28861244,423
 site_energy,site_energy.cooling,Cooling,code_min,Code Min,Cooling,kWh,2435.29645875,424
-site_energy,site_energy.cooling,Cooling,ph_assemblies,PH Assemblies,Cooling,kWh,2362.66033665,424
+site_energy,site_energy.cooling,Cooling,ph_assemblies,PH Assemblies,Cooling,kWh,2608.77306901,424
 site_energy,site_energy.cooling,Cooling,airtightness_erv,Airtightness + ERV,Cooling,kWh,2389.37260477,424
 site_energy,site_energy.cooling,Cooling,ph_windows,PH Windows,Cooling,kWh,2334.86349929,424
 site_energy,site_energy.dhw,DHW,code_min,Code Min,DHW,kWh,3458.70642541,425
@@ -372,7 +372,7 @@ primary_energy,primary_energy.heating,Heating,ph_assemblies,PH Assemblies,Heatin
 primary_energy,primary_energy.heating,Heating,airtightness_erv,Airtightness + ERV,Heating,kWh,14244.7993501,441
 primary_energy,primary_energy.heating,Heating,ph_windows,PH Windows,Heating,kWh,8539.15039235,441
 primary_energy,primary_energy.cooling,Cooling,code_min,Code Min,Cooling,kWh,6331.77079274,442
-primary_energy,primary_energy.cooling,Cooling,ph_assemblies,PH Assemblies,Cooling,kWh,6142.91687529,442
+primary_energy,primary_energy.cooling,Cooling,ph_assemblies,PH Assemblies,Cooling,kWh,6782.80997943,442
 primary_energy,primary_energy.cooling,Cooling,airtightness_erv,Airtightness + ERV,Cooling,kWh,6212.36877241,442
 primary_energy,primary_energy.cooling,Cooling,ph_windows,PH Windows,Cooling,kWh,6070.64509816,442
 primary_energy,primary_energy.dhw,DHW,code_min,Code Min,DHW,kWh,8992.63670607,443
@@ -456,11 +456,11 @@ certification_results,certification_results.peak_cooling_load,Peak Cooling Load,
 certification_results,certification_results.peak_cooling_load,Peak Cooling Load,airtightness_erv,Airtightness + ERV,Peak Cooling Load,W/m2,14.0263708597,464
 certification_results,certification_results.peak_cooling_load,Peak Cooling Load,ph_windows,PH Windows,Peak Cooling Load,W/m2,13.0546560675,464
 certification_results,certification_results.pe_demand,PE Demand,code_min,Code Min,PE Demand,kWh/m2,139.438039763,465
-certification_results,certification_results.pe_demand,PE Demand,ph_assemblies,PH Assemblies,PE Demand,kWh/m2,117.901166846,465
+certification_results,certification_results.pe_demand,PE Demand,ph_assemblies,PH Assemblies,PE Demand,kWh/m2,119.645394527,465
 certification_results,certification_results.pe_demand,PE Demand,airtightness_erv,Airtightness + ERV,PE Demand,kWh/m2,95.5202459496,465
 certification_results,certification_results.pe_demand,PE Demand,ph_windows,PH Windows,PE Demand,kWh/m2,79.0638243826,465
 certification_results,certification_results.per_demand,PER Demand,code_min,Code Min,PER Demand,kWh/m2,66.5491524103,466
-certification_results,certification_results.per_demand,PER Demand,ph_assemblies,PH Assemblies,PER Demand,kWh/m2,55.8570592472,466
+certification_results,certification_results.per_demand,PER Demand,ph_assemblies,PH Assemblies,PER Demand,kWh/m2,56.8819454771,466
 certification_results,certification_results.per_demand,PER Demand,airtightness_erv,Airtightness + ERV,PER Demand,kWh/m2,44.7396824763,466
 certification_results,certification_results.per_demand,PER Demand,ph_windows,PH Windows,PER Demand,kWh/m2,36.5911256309,466
 airtightness,airtightness.nv_system,"nV,system",code_min,Code Min,nV system,%,0.405462573368,470
@@ -548,7 +548,7 @@ co2e,co2e.heating,Heating,ph_assemblies,PH Assemblies,Heating,tonsCO2e,2.4875083
 co2e,co2e.heating,Heating,airtightness_erv,Airtightness + ERV,Heating,tonsCO2e,1.57708863431,502
 co2e,co2e.heating,Heating,ph_windows,PH Windows,Heating,tonsCO2e,0.945397453448,502
 co2e,co2e.cooling,Cooling,code_min,Code Min,Cooling,tonsCO2e,0.701011190602,503
-co2e,co2e.cooling,Cooling,ph_assemblies,PH Assemblies,Cooling,tonsCO2e,0.680102551636,503
+co2e,co2e.cooling,Cooling,ph_assemblies,PH Assemblies,Cooling,tonsCO2e,0.75094722392,503
 co2e,co2e.cooling,Cooling,airtightness_erv,Airtightness + ERV,Cooling,tonsCO2e,0.687791799823,503
 co2e,co2e.cooling,Cooling,ph_windows,PH Windows,Cooling,tonsCO2e,0.672101105249,503
 co2e,co2e.dhw,DHW,code_min,Code Min,DHW,tonsCO2e,0.995604416256,504
@@ -612,7 +612,7 @@ primary_energy_renewable,primary_energy_renewable.heating,Heating,ph_assemblies,
 primary_energy_renewable,primary_energy_renewable.heating,Heating,airtightness_erv,Airtightness + ERV,Heating,kWh,8218.1534712,520
 primary_energy_renewable,primary_energy_renewable.heating,Heating,ph_windows,PH Windows,Heating,kWh,4926.43291866,520
 primary_energy_renewable,primary_energy_renewable.cooling,Cooling,code_min,Code Min,Cooling,kWh,3774.70951106,521
-primary_energy_renewable,primary_energy_renewable.cooling,Cooling,ph_assemblies,PH Assemblies,Cooling,kWh,3662.12352181,521
+primary_energy_renewable,primary_energy_renewable.cooling,Cooling,ph_assemblies,PH Assemblies,Cooling,kWh,4129.73771329,521
 primary_energy_renewable,primary_energy_renewable.cooling,Cooling,airtightness_erv,Airtightness + ERV,Cooling,kWh,3703.5275374,521
 primary_energy_renewable,primary_energy_renewable.cooling,Cooling,ph_windows,PH Windows,Cooling,kWh,3619.0384239,521
 primary_energy_renewable,primary_energy_renewable.dhw,DHW,code_min,Code Min,DHW,kWh,3977.51238923,522
@@ -683,8 +683,8 @@ report_inputs,report_inputs.cold_air_duct_length_ea,Cold Air Duct Length (ea),ph
 report_inputs,report_inputs.cold_air_duct_insulation_thickness,Cold Air Duct Insulation Thickness,ph_assemblies,PH Assemblies,Cold Air Duct Insulation Thickness,inches,2.047244108,355
 report_inputs,report_inputs.heat_demand_annual,Heat Demand,ph_assemblies,PH Assemblies,Heat Demand,kWh/yr,14057.5529905,459
 report_inputs,report_inputs.cooling_demand_annual,Total Cooling Demand,ph_assemblies,PH Assemblies,Cooling Demand,kWh/yr,4101.31544276,462
-report_inputs,report_inputs.total_primary_energy,Total Primary Energy,ph_assemblies,PH Assemblies,Total Primary Energy,kWh/yr,43253.6098757,
-report_inputs,report_inputs.total_site_energy,Total Site Energy,ph_assemblies,PH Assemblies,Total Site Energy,kWh/yr,16636.0037983,
+report_inputs,report_inputs.total_primary_energy,Total Primary Energy,ph_assemblies,PH Assemblies,Total Primary Energy,kWh/yr,43893.5029798,
+report_inputs,report_inputs.total_site_energy,Total Site Energy,ph_assemblies,PH Assemblies,Total Site Energy,kWh/yr,16882.1165307,
 report_inputs,report_inputs.envelope_air_leakage_rate_q50,Envelope Air Leakage Rate (q50),airtightness_erv,Airtightness + ERV,Envelope Air Leakage Rate (q50),cfm/ft2,0.126118568556,345
 report_inputs,report_inputs.cold_air_duct_length_ea,Cold Air Duct Length (ea),airtightness_erv,Airtightness + ERV,Cold Air Duct Length (ea),ft,16.404199475,354
 report_inputs,report_inputs.cold_air_duct_insulation_thickness,Cold Air Duct Insulation Thickness,airtightness_erv,Airtightness + ERV,Cold Air Duct Insulation Thickness,inches,2.047244108,355

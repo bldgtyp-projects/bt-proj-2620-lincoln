@@ -28,9 +28,9 @@ peak_heat_load,result,ph_assemblies,W,11133.5471428,certification_results.peak_h
 peak_heat_load,limit,ph_assemblies,W,0,certification_limits.peak_heat_load_limit,Peak Heat Load Limit,367
 peak_cooling_load,result,ph_assemblies,W,5070.89803676,certification_results.peak_cooling_load,Peak Cooling Load,464
 peak_cooling_load,limit,ph_assemblies,W,3240.45035646,certification_limits.peak_cooling_load_limit,Peak Cooling Load Limit,368
-pe_demand,result,ph_assemblies,kWh,43253.6098755,certification_results.pe_demand,PE Demand,465
+pe_demand,result,ph_assemblies,kWh,43893.5029798,certification_results.pe_demand,PE Demand,465
 pe_demand,limit,ph_assemblies,kWh,0,certification_limits.pe_limit,PE Limit,369
-per_demand,result,ph_assemblies,kWh,20491.9044833,certification_results.per_demand,PER Demand,466
+per_demand,result,ph_assemblies,kWh,20867.8976167,certification_results.per_demand,PER Demand,466
 per_demand,limit,ph_assemblies,kWh,34852.0124787,certification_limits.per_limit,PER Limit,370
 phius_net_source_energy,limit,ph_assemblies,kWh,11189.006448,certification_limits.phius_net_source_energy_limit,PHIUS Net Source Energy Limit,371
 heat_demand,result,airtightness_erv,kWh,8559.73414497,certification_results.heat_demand,Heat Demand,459

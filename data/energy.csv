@@ -82,7 +82,7 @@ co2e,ipcc_limit,code_min,tonsCO2e,3.2668631965,co2e.ipcc_limit,IPCC Limit,517
 phius_net_source_energy,total,code_min,kWh,51154.6979141,primary_energy.*,Primary Energy total,
 phius_net_source_energy,limit,code_min,kWh,11189.006448,certification_limits.phius_net_source_energy_limit,PHIUS Net Source Energy Limit,371
 site_energy,heating,ph_assemblies,kWh,8641.54566262,site_energy.heating,Heating,423
-site_energy,cooling,ph_assemblies,kWh,2362.66033665,site_energy.cooling,Cooling,424
+site_energy,cooling,ph_assemblies,kWh,2608.77306901,site_energy.cooling,Cooling,424
 site_energy,dhw,ph_assemblies,kWh,3412.8183967,site_energy.dhw,DHW,425
 site_energy,dishwashing,ph_assemblies,kWh,113.867887278,site_energy.dishwashing,Dishwashing,426
 site_energy,clothes_washing,ph_assemblies,kWh,65.3500275336,site_energy.clothes_washing,Clothes Washing,427
@@ -99,8 +99,8 @@ site_energy,aux_elec,ph_assemblies,kWh,0,site_energy.aux_elec,Aux Elec,437
 site_energy,solar_pv,ph_assemblies,kWh,0,site_energy.solar_pv,Solar PV,438
 primary_energy,heating,ph_assemblies,kWh,22468.0187228,primary_energy.heating,Heating,441
 phius_net_source_energy,heating,ph_assemblies,kWh,22468.0187228,primary_energy.heating,Heating,441
-primary_energy,cooling,ph_assemblies,kWh,6142.91687529,primary_energy.cooling,Cooling,442
-phius_net_source_energy,cooling,ph_assemblies,kWh,6142.91687529,primary_energy.cooling,Cooling,442
+primary_energy,cooling,ph_assemblies,kWh,6782.80997943,primary_energy.cooling,Cooling,442
+phius_net_source_energy,cooling,ph_assemblies,kWh,6782.80997943,primary_energy.cooling,Cooling,442
 primary_energy,dhw,ph_assemblies,kWh,8873.32783142,primary_energy.dhw,DHW,443
 phius_net_source_energy,dhw,ph_assemblies,kWh,8873.32783142,primary_energy.dhw,DHW,443
 primary_energy,dishwashing,ph_assemblies,kWh,296.056506922,primary_energy.dishwashing,Dishwashing,444
@@ -130,7 +130,7 @@ phius_net_source_energy,aux_elec,ph_assemblies,kWh,0,primary_energy.aux_elec,Aux
 primary_energy,solar_pv,ph_assemblies,kWh,0,primary_energy.solar_pv,Solar PV,456
 phius_net_source_energy,solar_pv,ph_assemblies,kWh,0,primary_energy.solar_pv,Solar PV,456
 per,heating,ph_assemblies,kWh,12962.3184939,primary_energy_renewable.heating,Heating,520
-per,cooling,ph_assemblies,kWh,3662.12352181,primary_energy_renewable.cooling,Cooling,521
+per,cooling,ph_assemblies,kWh,4129.73771329,primary_energy_renewable.cooling,Cooling,521
 per,dhw,ph_assemblies,kWh,3924.7411562,primary_energy_renewable.dhw,DHW,522
 per,dishwashing,ph_assemblies,kWh,136.641464733,primary_energy_renewable.dishwashing,Dishwashing,523
 per,clothes_washing,ph_assemblies,kWh,78.4200330403,primary_energy_renewable.clothes_washing,Clothes Washing,524
@@ -146,7 +146,7 @@ per,phius_mel,ph_assemblies,kWh,0,primary_energy_renewable.phius_mel,Phius MEL,5
 per,aux_elec,ph_assemblies,kWh,0,primary_energy_renewable.aux_elec,Aux Elec,534
 per,solar_pv,ph_assemblies,kWh,0,primary_energy_renewable.solar_pv,Solar PV,535
 co2e,heating,ph_assemblies,tonsCO2e,2.48750832443,co2e.heating,Heating,502
-co2e,cooling,ph_assemblies,tonsCO2e,0.680102551636,co2e.cooling,Cooling,503
+co2e,cooling,ph_assemblies,tonsCO2e,0.75094722392,co2e.cooling,Cooling,503
 co2e,dhw,ph_assemblies,tonsCO2e,0.982395337942,co2e.dhw,DHW,504
 co2e,dishwashing,ph_assemblies,tonsCO2e,0.0327773905905,co2e.dishwashing,Dishwashing,505
 co2e,clothes_washing,ph_assemblies,tonsCO2e,0.0188113034217,co2e.clothes_washing,Clothes Washing,506
@@ -161,7 +161,7 @@ co2e,phius_ext_lighting,ph_assemblies,tonsCO2e,0,co2e.phius_ext_lighting,Phius E
 co2e,phius_mel,ph_assemblies,tonsCO2e,0,co2e.phius_mel,Phius MEL,515
 co2e,aux_elec,ph_assemblies,tonsCO2e,0,co2e.aux_elec,Aux Elec,516
 co2e,ipcc_limit,ph_assemblies,tonsCO2e,3.2668631965,co2e.ipcc_limit,IPCC Limit,517
-phius_net_source_energy,total,ph_assemblies,kWh,43253.6098757,primary_energy.*,Primary Energy total,
+phius_net_source_energy,total,ph_assemblies,kWh,43893.5029798,primary_energy.*,Primary Energy total,
 phius_net_source_energy,limit,ph_assemblies,kWh,11189.006448,certification_limits.phius_net_source_energy_limit,PHIUS Net Source Energy Limit,371
 site_energy,heating,airtightness_erv,kWh,5478.7689808,site_energy.heating,Heating,423
 site_energy,cooling,airtightness_erv,kWh,2389.37260477,site_energy.cooling,Cooling,424
