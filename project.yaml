@@ -4,13 +4,16 @@ project_title: 127 Lincoln Place
 client_name: Ingui Architecture
 building_name: 127 Lincoln Place
 phase: Design Analysis
-report_date: '2026-09-04'
+report_date: '2026-09-22'
 prepared_by: bldgtyp, llc
 contact_email: john@bldgtyp.com
-target_standard: TBD
+target_standard: PHI EnerPHit 'by Demand'
 certification_program: TBD
 certification_path: TBD
 recommended_variant_id: ''
+certification_pathways:
+  show: [enerphit-component, enerphit-demand,phi-classic]
+  recommended: enerphit-demand
 building:
   address: 127 Lincoln Place
   city: Brooklyn

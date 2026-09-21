@@ -20,10 +20,10 @@ on:
 
 jobs:
   build:
-    uses: bldgtyp/bt-web-report-template/.github/workflows/_renderer-build.yml@e7aeb1a44d2fd49c65e2b9370c8f60f95b20e80a
+    uses: bldgtyp/bt-web-report-template/.github/workflows/_renderer-build.yml@65a1448ec0b9c1640e85542a2bf8dcad105738d6
     with:
       project-repo: ${{ github.repository }}
       project-ref: ${{ github.ref }}
-      renderer-ref: e7aeb1a44d2fd49c65e2b9370c8f60f95b20e80a
-      schemas-ref: f7c96e2713a0ea490bc15c1a4fa05e674b958e98
+      renderer-ref: 65a1448ec0b9c1640e85542a2bf8dcad105738d6
+      schemas-ref: 359a8f83c8079b040f771a0a3f4a9d6608023bda
       run-deploy: false
