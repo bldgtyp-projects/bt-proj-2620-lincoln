@@ -39,13 +39,13 @@ narrative:
   certification:
     enph_ag_ext_limit: '0.053'
     enph_ag_int_limit: '0.088'
-    enph_bg_limit: '5.0'
+    enph_bg_limit: '0.2'
     enph_hd_limit: '6.34'
     enph_per_limit: '19.02'
     enph_uw_limit: '0.185'
     ph_ach_limit: '1.0'
     phi_cd_limit: '5.07'
-    phi_lcd_limit: 4,75
+    phi_lcd_limit: '4.75'
     phi_leb_cd_limit: ''
     phius_cd_limit: ''
     phius_cfm50_limit: ''
@@ -73,7 +73,7 @@ narrative:
     ach_limit: '3'
     ach_link: https://up.codes/viewer/new_york_city/nyc-energy-conservation-code-2025/chapter/R4/residential-energy-efficiency#R402.5
     code_airtightness_url: https://up.codes/viewer/new_york_city/nyc-energy-conservation-code-2025/chapter/C4/commercial-energy-efficiency#C402.6.2.1
-    code_base_url: ''
+    code_base_url: https://up.codes/viewer/new_york_city/nyc-energy-conservation-code-2025
     link: https://up.codes/viewer/new_york_city/nyc-energy-conservation-code-2025
     name: NYC Energy Code 2025
     u_val_link: https://up.codes/viewer/new_york_city/nyc-energy-conservation-code-2025/chapter/C4/commercial-energy-efficiency#C402.1.2
