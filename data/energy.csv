@@ -1,7 +1,7 @@
 metric_group,end_use,variant_id,units,value,source_field_id,source_label,excel_row
-site_energy,heating,code_min,kWh,11561.9015266,site_energy.heating,Heating,423
-site_energy,cooling,code_min,kWh,2435.29645875,site_energy.cooling,Cooling,424
-site_energy,dhw,code_min,kWh,3458.70642541,site_energy.dhw,DHW,425
+site_energy,heating,code_min,kWh,12046.5590493,site_energy.heating,Heating,423
+site_energy,cooling,code_min,kWh,2451.68825189,site_energy.cooling,Cooling,424
+site_energy,dhw,code_min,kWh,3465.79484843,site_energy.dhw,DHW,425
 site_energy,dishwashing,code_min,kWh,113.867887278,site_energy.dishwashing,Dishwashing,426
 site_energy,clothes_washing,code_min,kWh,65.3500275336,site_energy.clothes_washing,Clothes Washing,427
 site_energy,clothes_drying,code_min,kWh,310.113815021,site_energy.clothes_drying,Clothes Drying,428
@@ -15,12 +15,12 @@ site_energy,phius_ext_lighting,code_min,kWh,0,site_energy.phius_ext_lighting,Phi
 site_energy,phius_mel,code_min,kWh,0,site_energy.phius_mel,Phius MEL,436
 site_energy,aux_elec,code_min,kWh,0,site_energy.aux_elec,Aux Elec,437
 site_energy,solar_pv,code_min,kWh,0,site_energy.solar_pv,Solar PV,438
-primary_energy,heating,code_min,kWh,30060.9439691,primary_energy.heating,Heating,441
-phius_net_source_energy,heating,code_min,kWh,30060.9439691,primary_energy.heating,Heating,441
-primary_energy,cooling,code_min,kWh,6331.77079274,primary_energy.cooling,Cooling,442
-phius_net_source_energy,cooling,code_min,kWh,6331.77079274,primary_energy.cooling,Cooling,442
-primary_energy,dhw,code_min,kWh,8992.63670607,primary_energy.dhw,DHW,443
-phius_net_source_energy,dhw,code_min,kWh,8992.63670607,primary_energy.dhw,DHW,443
+primary_energy,heating,code_min,kWh,31321.0535282,primary_energy.heating,Heating,441
+phius_net_source_energy,heating,code_min,kWh,31321.0535282,primary_energy.heating,Heating,441
+primary_energy,cooling,code_min,kWh,6374.38945491,primary_energy.cooling,Cooling,442
+phius_net_source_energy,cooling,code_min,kWh,6374.38945491,primary_energy.cooling,Cooling,442
+primary_energy,dhw,code_min,kWh,9011.06660591,primary_energy.dhw,DHW,443
+phius_net_source_energy,dhw,code_min,kWh,9011.06660591,primary_energy.dhw,DHW,443
 primary_energy,dishwashing,code_min,kWh,296.056506922,primary_energy.dishwashing,Dishwashing,444
 phius_net_source_energy,dishwashing,code_min,kWh,296.056506922,primary_energy.dishwashing,Dishwashing,444
 primary_energy,clothes_washing,code_min,kWh,169.910071587,primary_energy.clothes_washing,Clothes Washing,445
@@ -47,9 +47,9 @@ primary_energy,aux_elec,code_min,kWh,0,primary_energy.aux_elec,Aux Elec,455
 phius_net_source_energy,aux_elec,code_min,kWh,0,primary_energy.aux_elec,Aux Elec,455
 primary_energy,solar_pv,code_min,kWh,0,primary_energy.solar_pv,Solar PV,456
 phius_net_source_energy,solar_pv,code_min,kWh,0,primary_energy.solar_pv,Solar PV,456
-per,heating,code_min,kWh,17342.8522898,primary_energy_renewable.heating,Heating,520
-per,cooling,code_min,kWh,3774.70951106,primary_energy_renewable.cooling,Cooling,521
-per,dhw,code_min,kWh,3977.51238923,primary_energy_renewable.dhw,DHW,522
+per,heating,code_min,kWh,18069.838574,primary_energy_renewable.heating,Heating,520
+per,cooling,code_min,kWh,3800.11679042,primary_energy_renewable.cooling,Cooling,521
+per,dhw,code_min,kWh,3985.66407569,primary_energy_renewable.dhw,DHW,522
 per,dishwashing,code_min,kWh,136.641464733,primary_energy_renewable.dishwashing,Dishwashing,523
 per,clothes_washing,code_min,kWh,78.4200330403,primary_energy_renewable.clothes_washing,Clothes Washing,524
 per,clothes_drying,code_min,kWh,372.136578026,primary_energy_renewable.clothes_drying,Clothes Drying,525
@@ -63,9 +63,9 @@ per,phius_ext_lighting,code_min,kWh,0,primary_energy_renewable.phius_ext_lightin
 per,phius_mel,code_min,kWh,0,primary_energy_renewable.phius_mel,Phius MEL,533
 per,aux_elec,code_min,kWh,0,primary_energy_renewable.aux_elec,Aux Elec,534
 per,solar_pv,code_min,kWh,0,primary_energy_renewable.solar_pv,Solar PV,535
-co2e,heating,code_min,tonsCO2e,3.32814607669,co2e.heating,Heating,502
-co2e,cooling,code_min,tonsCO2e,0.701011190602,co2e.cooling,Cooling,503
-co2e,dhw,code_min,tonsCO2e,0.995604416256,co2e.dhw,DHW,504
+co2e,heating,code_min,tonsCO2e,3.46765695465,co2e.heating,Heating,502
+co2e,cooling,code_min,tonsCO2e,0.705729643004,co2e.cooling,Cooling,503
+co2e,dhw,code_min,tonsCO2e,0.997644851144,co2e.dhw,DHW,504
 co2e,dishwashing,code_min,tonsCO2e,0.0327773905905,co2e.dishwashing,Dishwashing,505
 co2e,clothes_washing,code_min,tonsCO2e,0.0188113034217,co2e.clothes_washing,Clothes Washing,506
 co2e,clothes_drying,code_min,tonsCO2e,0.0892676757729,co2e.clothes_drying,Clothes Drying,507
@@ -79,11 +79,11 @@ co2e,phius_ext_lighting,code_min,tonsCO2e,0,co2e.phius_ext_lighting,Phius Ext. L
 co2e,phius_mel,code_min,tonsCO2e,0,co2e.phius_mel,Phius MEL,515
 co2e,aux_elec,code_min,tonsCO2e,0,co2e.aux_elec,Aux Elec,516
 co2e,ipcc_limit,code_min,tonsCO2e,3.2668631965,co2e.ipcc_limit,IPCC Limit,517
-phius_net_source_energy,total,code_min,kWh,51154.6979141,primary_energy.*,Primary Energy total,
+phius_net_source_energy,total,code_min,kWh,52475.8560352,primary_energy.*,Primary Energy total,
 phius_net_source_energy,limit,code_min,kWh,11189.006448,certification_limits.phius_net_source_energy_limit,PHIUS Net Source Energy Limit,371
-site_energy,heating,ph_assemblies,kWh,8641.54566262,site_energy.heating,Heating,423
-site_energy,cooling,ph_assemblies,kWh,2608.77306901,site_energy.cooling,Cooling,424
-site_energy,dhw,ph_assemblies,kWh,3412.8183967,site_energy.dhw,DHW,425
+site_energy,heating,ph_assemblies,kWh,8401.51586271,site_energy.heating,Heating,423
+site_energy,cooling,ph_assemblies,kWh,2619.9848328,site_energy.cooling,Cooling,424
+site_energy,dhw,ph_assemblies,kWh,3409.58276328,site_energy.dhw,DHW,425
 site_energy,dishwashing,ph_assemblies,kWh,113.867887278,site_energy.dishwashing,Dishwashing,426
 site_energy,clothes_washing,ph_assemblies,kWh,65.3500275336,site_energy.clothes_washing,Clothes Washing,427
 site_energy,clothes_drying,ph_assemblies,kWh,310.113815021,site_energy.clothes_drying,Clothes Drying,428
@@ -97,12 +97,12 @@ site_energy,phius_ext_lighting,ph_assemblies,kWh,0,site_energy.phius_ext_lightin
 site_energy,phius_mel,ph_assemblies,kWh,0,site_energy.phius_mel,Phius MEL,436
 site_energy,aux_elec,ph_assemblies,kWh,0,site_energy.aux_elec,Aux Elec,437
 site_energy,solar_pv,ph_assemblies,kWh,0,site_energy.solar_pv,Solar PV,438
-primary_energy,heating,ph_assemblies,kWh,22468.0187228,primary_energy.heating,Heating,441
-phius_net_source_energy,heating,ph_assemblies,kWh,22468.0187228,primary_energy.heating,Heating,441
-primary_energy,cooling,ph_assemblies,kWh,6782.80997943,primary_energy.cooling,Cooling,442
-phius_net_source_energy,cooling,ph_assemblies,kWh,6782.80997943,primary_energy.cooling,Cooling,442
-primary_energy,dhw,ph_assemblies,kWh,8873.32783142,primary_energy.dhw,DHW,443
-phius_net_source_energy,dhw,ph_assemblies,kWh,8873.32783142,primary_energy.dhw,DHW,443
+primary_energy,heating,ph_assemblies,kWh,21843.941243,primary_energy.heating,Heating,441
+phius_net_source_energy,heating,ph_assemblies,kWh,21843.941243,primary_energy.heating,Heating,441
+primary_energy,cooling,ph_assemblies,kWh,6811.96056529,primary_energy.cooling,Cooling,442
+phius_net_source_energy,cooling,ph_assemblies,kWh,6811.96056529,primary_energy.cooling,Cooling,442
+primary_energy,dhw,ph_assemblies,kWh,8864.91518453,primary_energy.dhw,DHW,443
+phius_net_source_energy,dhw,ph_assemblies,kWh,8864.91518453,primary_energy.dhw,DHW,443
 primary_energy,dishwashing,ph_assemblies,kWh,296.056506922,primary_energy.dishwashing,Dishwashing,444
 phius_net_source_energy,dishwashing,ph_assemblies,kWh,296.056506922,primary_energy.dishwashing,Dishwashing,444
 primary_energy,clothes_washing,ph_assemblies,kWh,169.910071587,primary_energy.clothes_washing,Clothes Washing,445
@@ -129,9 +129,9 @@ primary_energy,aux_elec,ph_assemblies,kWh,0,primary_energy.aux_elec,Aux Elec,455
 phius_net_source_energy,aux_elec,ph_assemblies,kWh,0,primary_energy.aux_elec,Aux Elec,455
 primary_energy,solar_pv,ph_assemblies,kWh,0,primary_energy.solar_pv,Solar PV,456
 phius_net_source_energy,solar_pv,ph_assemblies,kWh,0,primary_energy.solar_pv,Solar PV,456
-per,heating,ph_assemblies,kWh,12962.3184939,primary_energy_renewable.heating,Heating,520
-per,cooling,ph_assemblies,kWh,4129.73771329,primary_energy_renewable.cooling,Cooling,521
-per,dhw,ph_assemblies,kWh,3924.7411562,primary_energy_renewable.dhw,DHW,522
+per,heating,ph_assemblies,kWh,12602.2737941,primary_energy_renewable.heating,Heating,520
+per,cooling,ph_assemblies,kWh,4147.07187726,primary_energy_renewable.cooling,Cooling,521
+per,dhw,ph_assemblies,kWh,3921.02017777,primary_energy_renewable.dhw,DHW,522
 per,dishwashing,ph_assemblies,kWh,136.641464733,primary_energy_renewable.dishwashing,Dishwashing,523
 per,clothes_washing,ph_assemblies,kWh,78.4200330403,primary_energy_renewable.clothes_washing,Clothes Washing,524
 per,clothes_drying,ph_assemblies,kWh,372.136578026,primary_energy_renewable.clothes_drying,Clothes Drying,525
@@ -145,9 +145,9 @@ per,phius_ext_lighting,ph_assemblies,kWh,0,primary_energy_renewable.phius_ext_li
 per,phius_mel,ph_assemblies,kWh,0,primary_energy_renewable.phius_mel,Phius MEL,533
 per,aux_elec,ph_assemblies,kWh,0,primary_energy_renewable.aux_elec,Aux Elec,534
 per,solar_pv,ph_assemblies,kWh,0,primary_energy_renewable.solar_pv,Solar PV,535
-co2e,heating,ph_assemblies,tonsCO2e,2.48750832443,co2e.heating,Heating,502
-co2e,cooling,ph_assemblies,tonsCO2e,0.75094722392,co2e.cooling,Cooling,503
-co2e,dhw,ph_assemblies,tonsCO2e,0.982395337942,co2e.dhw,DHW,504
+co2e,heating,ph_assemblies,tonsCO2e,2.41841465199,co2e.heating,Heating,502
+co2e,cooling,ph_assemblies,tonsCO2e,0.754174581253,co2e.cooling,Cooling,503
+co2e,dhw,ph_assemblies,tonsCO2e,0.981463946108,co2e.dhw,DHW,504
 co2e,dishwashing,ph_assemblies,tonsCO2e,0.0327773905905,co2e.dishwashing,Dishwashing,505
 co2e,clothes_washing,ph_assemblies,tonsCO2e,0.0188113034217,co2e.clothes_washing,Clothes Washing,506
 co2e,clothes_drying,ph_assemblies,tonsCO2e,0.0892676757729,co2e.clothes_drying,Clothes Drying,507
@@ -161,11 +161,11 @@ co2e,phius_ext_lighting,ph_assemblies,tonsCO2e,0,co2e.phius_ext_lighting,Phius E
 co2e,phius_mel,ph_assemblies,tonsCO2e,0,co2e.phius_mel,Phius MEL,515
 co2e,aux_elec,ph_assemblies,tonsCO2e,0,co2e.aux_elec,Aux Elec,516
 co2e,ipcc_limit,ph_assemblies,tonsCO2e,3.2668631965,co2e.ipcc_limit,IPCC Limit,517
-phius_net_source_energy,total,ph_assemblies,kWh,43893.5029798,primary_energy.*,Primary Energy total,
+phius_net_source_energy,total,ph_assemblies,kWh,43290.163439,primary_energy.*,Primary Energy total,
 phius_net_source_energy,limit,ph_assemblies,kWh,11189.006448,certification_limits.phius_net_source_energy_limit,PHIUS Net Source Energy Limit,371
-site_energy,heating,airtightness_erv,kWh,5478.7689808,site_energy.heating,Heating,423
-site_energy,cooling,airtightness_erv,kWh,2389.37260477,site_energy.cooling,Cooling,424
-site_energy,dhw,airtightness_erv,kWh,3390.90655784,site_energy.dhw,DHW,425
+site_energy,heating,airtightness_erv,kWh,5254.53559164,site_energy.heating,Heating,423
+site_energy,cooling,airtightness_erv,kWh,2659.14328669,site_energy.cooling,Cooling,424
+site_energy,dhw,airtightness_erv,kWh,3385.54605206,site_energy.dhw,DHW,425
 site_energy,dishwashing,airtightness_erv,kWh,113.867887278,site_energy.dishwashing,Dishwashing,426
 site_energy,clothes_washing,airtightness_erv,kWh,65.3500275336,site_energy.clothes_washing,Clothes Washing,427
 site_energy,clothes_drying,airtightness_erv,kWh,310.113815021,site_energy.clothes_drying,Clothes Drying,428
@@ -179,12 +179,12 @@ site_energy,phius_ext_lighting,airtightness_erv,kWh,0,site_energy.phius_ext_ligh
 site_energy,phius_mel,airtightness_erv,kWh,0,site_energy.phius_mel,Phius MEL,436
 site_energy,aux_elec,airtightness_erv,kWh,0,site_energy.aux_elec,Aux Elec,437
 site_energy,solar_pv,airtightness_erv,kWh,0,site_energy.solar_pv,Solar PV,438
-primary_energy,heating,airtightness_erv,kWh,14244.7993501,primary_energy.heating,Heating,441
-phius_net_source_energy,heating,airtightness_erv,kWh,14244.7993501,primary_energy.heating,Heating,441
-primary_energy,cooling,airtightness_erv,kWh,6212.36877241,primary_energy.cooling,Cooling,442
-phius_net_source_energy,cooling,airtightness_erv,kWh,6212.36877241,primary_energy.cooling,Cooling,442
-primary_energy,dhw,airtightness_erv,kWh,8816.35705039,primary_energy.dhw,DHW,443
-phius_net_source_energy,dhw,airtightness_erv,kWh,8816.35705039,primary_energy.dhw,DHW,443
+primary_energy,heating,airtightness_erv,kWh,13661.7925383,primary_energy.heating,Heating,441
+phius_net_source_energy,heating,airtightness_erv,kWh,13661.7925383,primary_energy.heating,Heating,441
+primary_energy,cooling,airtightness_erv,kWh,6913.77254539,primary_energy.cooling,Cooling,442
+phius_net_source_energy,cooling,airtightness_erv,kWh,6913.77254539,primary_energy.cooling,Cooling,442
+primary_energy,dhw,airtightness_erv,kWh,8802.41973535,primary_energy.dhw,DHW,443
+phius_net_source_energy,dhw,airtightness_erv,kWh,8802.41973535,primary_energy.dhw,DHW,443
 primary_energy,dishwashing,airtightness_erv,kWh,296.056506922,primary_energy.dishwashing,Dishwashing,444
 phius_net_source_energy,dishwashing,airtightness_erv,kWh,296.056506922,primary_energy.dishwashing,Dishwashing,444
 primary_energy,clothes_washing,airtightness_erv,kWh,169.910071587,primary_energy.clothes_washing,Clothes Washing,445
@@ -211,9 +211,9 @@ primary_energy,aux_elec,airtightness_erv,kWh,0,primary_energy.aux_elec,Aux Elec,
 phius_net_source_energy,aux_elec,airtightness_erv,kWh,0,primary_energy.aux_elec,Aux Elec,455
 primary_energy,solar_pv,airtightness_erv,kWh,0,primary_energy.solar_pv,Solar PV,456
 phius_net_source_energy,solar_pv,airtightness_erv,kWh,0,primary_energy.solar_pv,Solar PV,456
-per,heating,airtightness_erv,kWh,8218.1534712,primary_energy_renewable.heating,Heating,520
-per,cooling,airtightness_erv,kWh,3703.5275374,primary_energy_renewable.cooling,Cooling,521
-per,dhw,airtightness_erv,kWh,3899.54254152,primary_energy_renewable.dhw,DHW,522
+per,heating,airtightness_erv,kWh,7881.80338745,primary_energy_renewable.heating,Heating,520
+per,cooling,airtightness_erv,kWh,4220.56586042,primary_energy_renewable.cooling,Cooling,521
+per,dhw,airtightness_erv,kWh,3893.37795987,primary_energy_renewable.dhw,DHW,522
 per,dishwashing,airtightness_erv,kWh,136.641464733,primary_energy_renewable.dishwashing,Dishwashing,523
 per,clothes_washing,airtightness_erv,kWh,78.4200330403,primary_energy_renewable.clothes_washing,Clothes Washing,524
 per,clothes_drying,airtightness_erv,kWh,372.136578026,primary_energy_renewable.clothes_drying,Clothes Drying,525
@@ -227,9 +227,9 @@ per,phius_ext_lighting,airtightness_erv,kWh,0,primary_energy_renewable.phius_ext
 per,phius_mel,airtightness_erv,kWh,0,primary_energy_renewable.phius_mel,Phius MEL,533
 per,aux_elec,airtightness_erv,kWh,0,primary_energy_renewable.aux_elec,Aux Elec,534
 per,solar_pv,airtightness_erv,kWh,0,primary_energy_renewable.solar_pv,Solar PV,535
-co2e,heating,airtightness_erv,tonsCO2e,1.57708863431,co2e.heating,Heating,502
-co2e,cooling,airtightness_erv,tonsCO2e,0.687791799823,co2e.cooling,Cooling,503
-co2e,dhw,airtightness_erv,tonsCO2e,0.976087915208,co2e.dhw,DHW,504
+co2e,heating,airtightness_erv,tonsCO2e,1.51254203073,co2e.heating,Heating,502
+co2e,cooling,airtightness_erv,tonsCO2e,0.765446520766,co2e.cooling,Cooling,503
+co2e,dhw,airtightness_erv,tonsCO2e,0.974544869175,co2e.dhw,DHW,504
 co2e,dishwashing,airtightness_erv,tonsCO2e,0.0327773905905,co2e.dishwashing,Dishwashing,505
 co2e,clothes_washing,airtightness_erv,tonsCO2e,0.0188113034217,co2e.clothes_washing,Clothes Washing,506
 co2e,clothes_drying,airtightness_erv,tonsCO2e,0.0892676757729,co2e.clothes_drying,Clothes Drying,507
@@ -243,11 +243,11 @@ co2e,phius_ext_lighting,airtightness_erv,tonsCO2e,0,co2e.phius_ext_lighting,Phiu
 co2e,phius_mel,airtightness_erv,tonsCO2e,0,co2e.phius_mel,Phius MEL,515
 co2e,aux_elec,airtightness_erv,tonsCO2e,0,co2e.aux_elec,Aux Elec,516
 co2e,ipcc_limit,airtightness_erv,tonsCO2e,3.2668631965,co2e.ipcc_limit,IPCC Limit,517
-phius_net_source_energy,total,airtightness_erv,kWh,35042.871619,primary_energy.*,Primary Energy total,
+phius_net_source_energy,total,airtightness_erv,kWh,35147.3312652,primary_energy.*,Primary Energy total,
 phius_net_source_energy,limit,airtightness_erv,kWh,11189.006448,certification_limits.phius_net_source_energy_limit,PHIUS Net Source Energy Limit,371
-site_energy,heating,ph_windows,kWh,3284.28861244,site_energy.heating,Heating,423
-site_energy,cooling,ph_windows,kWh,2334.86349929,site_energy.cooling,Cooling,424
-site_energy,dhw,ph_windows,kWh,3317.87412961,site_energy.dhw,DHW,425
+site_energy,heating,ph_windows,kWh,3237.18319928,site_energy.heating,Heating,423
+site_energy,cooling,ph_windows,kWh,2600.67247909,site_energy.cooling,Cooling,424
+site_energy,dhw,ph_windows,kWh,3315.45488334,site_energy.dhw,DHW,425
 site_energy,dishwashing,ph_windows,kWh,113.867887278,site_energy.dishwashing,Dishwashing,426
 site_energy,clothes_washing,ph_windows,kWh,65.3500275336,site_energy.clothes_washing,Clothes Washing,427
 site_energy,clothes_drying,ph_windows,kWh,310.113815021,site_energy.clothes_drying,Clothes Drying,428
@@ -261,12 +261,12 @@ site_energy,phius_ext_lighting,ph_windows,kWh,0,site_energy.phius_ext_lighting,P
 site_energy,phius_mel,ph_windows,kWh,0,site_energy.phius_mel,Phius MEL,436
 site_energy,aux_elec,ph_windows,kWh,0,site_energy.aux_elec,Aux Elec,437
 site_energy,solar_pv,ph_windows,kWh,0,site_energy.solar_pv,Solar PV,438
-primary_energy,heating,ph_windows,kWh,8539.15039235,primary_energy.heating,Heating,441
-phius_net_source_energy,heating,ph_windows,kWh,8539.15039235,primary_energy.heating,Heating,441
-primary_energy,cooling,ph_windows,kWh,6070.64509816,primary_energy.cooling,Cooling,442
-phius_net_source_energy,cooling,ph_windows,kWh,6070.64509816,primary_energy.cooling,Cooling,442
-primary_energy,dhw,ph_windows,kWh,8626.47273699,primary_energy.dhw,DHW,443
-phius_net_source_energy,dhw,ph_windows,kWh,8626.47273699,primary_energy.dhw,DHW,443
+primary_energy,heating,ph_windows,kWh,8416.67631813,primary_energy.heating,Heating,441
+phius_net_source_energy,heating,ph_windows,kWh,8416.67631813,primary_energy.heating,Heating,441
+primary_energy,cooling,ph_windows,kWh,6761.74844564,primary_energy.cooling,Cooling,442
+phius_net_source_energy,cooling,ph_windows,kWh,6761.74844564,primary_energy.cooling,Cooling,442
+primary_energy,dhw,ph_windows,kWh,8620.18269667,primary_energy.dhw,DHW,443
+phius_net_source_energy,dhw,ph_windows,kWh,8620.18269667,primary_energy.dhw,DHW,443
 primary_energy,dishwashing,ph_windows,kWh,296.056506922,primary_energy.dishwashing,Dishwashing,444
 phius_net_source_energy,dishwashing,ph_windows,kWh,296.056506922,primary_energy.dishwashing,Dishwashing,444
 primary_energy,clothes_washing,ph_windows,kWh,169.910071587,primary_energy.clothes_washing,Clothes Washing,445
@@ -293,9 +293,9 @@ primary_energy,aux_elec,ph_windows,kWh,0,primary_energy.aux_elec,Aux Elec,455
 phius_net_source_energy,aux_elec,ph_windows,kWh,0,primary_energy.aux_elec,Aux Elec,455
 primary_energy,solar_pv,ph_windows,kWh,0,primary_energy.solar_pv,Solar PV,456
 phius_net_source_energy,solar_pv,ph_windows,kWh,0,primary_energy.solar_pv,Solar PV,456
-per,heating,ph_windows,kWh,4926.43291866,primary_energy_renewable.heating,Heating,520
-per,cooling,ph_windows,kWh,3619.0384239,primary_energy_renewable.cooling,Cooling,521
-per,dhw,ph_windows,kWh,3815.55524905,primary_energy_renewable.dhw,DHW,522
+per,heating,ph_windows,kWh,4855.77479892,primary_energy_renewable.heating,Heating,520
+per,cooling,ph_windows,kWh,4126.55147893,primary_energy_renewable.cooling,Cooling,521
+per,dhw,ph_windows,kWh,3812.77311584,primary_energy_renewable.dhw,DHW,522
 per,dishwashing,ph_windows,kWh,136.641464733,primary_energy_renewable.dishwashing,Dishwashing,523
 per,clothes_washing,ph_windows,kWh,78.4200330403,primary_energy_renewable.clothes_washing,Clothes Washing,524
 per,clothes_drying,ph_windows,kWh,372.136578026,primary_energy_renewable.clothes_drying,Clothes Drying,525
@@ -309,9 +309,9 @@ per,phius_ext_lighting,ph_windows,kWh,0,primary_energy_renewable.phius_ext_light
 per,phius_mel,ph_windows,kWh,0,primary_energy_renewable.phius_mel,Phius MEL,533
 per,aux_elec,ph_windows,kWh,0,primary_energy_renewable.aux_elec,Aux Elec,534
 per,solar_pv,ph_windows,kWh,0,primary_energy_renewable.solar_pv,Solar PV,535
-co2e,heating,ph_windows,tonsCO2e,0.945397453448,co2e.heating,Heating,502
-co2e,cooling,ph_windows,tonsCO2e,0.672101105249,co2e.cooling,Cooling,503
-co2e,dhw,ph_windows,tonsCO2e,0.955065197715,co2e.dhw,DHW,504
+co2e,heating,ph_windows,tonsCO2e,0.931837945468,co2e.heating,Heating,502
+co2e,cooling,ph_windows,tonsCO2e,0.748615432173,co2e.cooling,Cooling,503
+co2e,dhw,ph_windows,tonsCO2e,0.954368806642,co2e.dhw,DHW,504
 co2e,dishwashing,ph_windows,tonsCO2e,0.0327773905905,co2e.dishwashing,Dishwashing,505
 co2e,clothes_washing,ph_windows,tonsCO2e,0.0188113034217,co2e.clothes_washing,Clothes Washing,506
 co2e,clothes_drying,ph_windows,tonsCO2e,0.0892676757729,co2e.clothes_drying,Clothes Drying,507
@@ -325,5 +325,5 @@ co2e,phius_ext_lighting,ph_windows,tonsCO2e,0,co2e.phius_ext_lighting,Phius Ext.
 co2e,phius_mel,ph_windows,tonsCO2e,0,co2e.phius_mel,Phius MEL,515
 co2e,aux_elec,ph_windows,tonsCO2e,0,co2e.aux_elec,Aux Elec,516
 co2e,ipcc_limit,ph_windows,tonsCO2e,3.2668631965,co2e.ipcc_limit,IPCC Limit,517
-phius_net_source_energy,total,ph_windows,kWh,29005.6146736,primary_energy.*,Primary Energy total,
+phius_net_source_energy,total,ph_windows,kWh,29567.9539066,primary_energy.*,Primary Energy total,
 phius_net_source_energy,limit,ph_windows,kWh,11189.006448,certification_limits.phius_net_source_energy_limit,PHIUS Net Source Energy Limit,371

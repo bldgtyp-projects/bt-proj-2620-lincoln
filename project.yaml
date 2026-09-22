@@ -12,7 +12,10 @@ certification_program: TBD
 certification_path: TBD
 recommended_variant_id: ''
 certification_pathways:
-  show: [enerphit-component, enerphit-demand,phi-classic]
+  show:
+  - enerphit-component
+  - enerphit-demand
+  - phi-classic
   recommended: enerphit-demand
 building:
   address: 127 Lincoln Place
@@ -34,53 +37,55 @@ publishing:
     allowed_emails: []
 narrative:
   certification:
-    enph_ag_ext_limit: ''
-    enph_ag_int_limit: ''
-    enph_bg_limit: ''
-    enph_hd_limit: ''
-    enph_per_limit: ''
-    enph_uw_limit: ''
-    ph_ach_limit: ''
-    phi_lcd_limit: ''
+    enph_ag_ext_limit: '0.053'
+    enph_ag_int_limit: '0.088'
+    enph_bg_limit: '5.0'
+    enph_hd_limit: '6.34'
+    enph_per_limit: '19.02'
+    enph_uw_limit: '0.185'
+    ph_ach_limit: '1.0'
+    phi_cd_limit: '5.07'
+    phi_lcd_limit: 4,75
+    phi_leb_cd_limit: ''
     phius_cd_limit: ''
     phius_cfm50_limit: ''
     phius_cl_limit: ''
     phius_hd_limit: ''
     phius_hl_limit: ''
     phius_nse_limit: ''
-    target: ''
+    target: EnerPHit by Energy Demand Method
   climate:
     ashrae_design_temps: ''
-    ashrae_location_name: ''
-    ashrae_winter_design_temp_C: ''
-    ashrae_winter_design_temp_F: ''
-    state_name: ''
-    state_name_abbreviation: ''
-    weather_station_name: ''
-    weather_station_url: ''
+    ashrae_location_name: NEW YORK LA GUARDIA
+    ashrae_winter_design_temp_C: '-12.0'
+    ashrae_winter_design_temp_F: '10.4'
+    state_name: New York
+    state_name_abbreviation: NY
+    weather_station_name: 'NEW YORK LA GUARDIA, NY, USA (WMO: 725030)'
+    weather_station_url: https://energyplus.net/weather-location/north_and_central_america_wmo_region_4/USA/NY/USA_NY_New.York-LaGuardia.AP.725030_TMY
   co2:
-    epa_subgrid_name: ''
-    occupancy: ''
-    subregion_name: ''
-    taget_co2_per_person: ''
-    target_tons: ''
+    epa_subgrid_name: NYCW
+    occupancy: '3.3'
+    subregion_name: NYC eGrid (2020)
+    taget_co2_per_person: '1.0'
+    target_tons: '3.3'
   energy_code:
     ach_limit: '3'
-    ach_link: ''
-    code_airtightness_url: ''
+    ach_link: https://up.codes/viewer/new_york_city/nyc-energy-conservation-code-2025/chapter/R4/residential-energy-efficiency#R402.5
+    code_airtightness_url: https://up.codes/viewer/new_york_city/nyc-energy-conservation-code-2025/chapter/C4/commercial-energy-efficiency#C402.6.2.1
     code_base_url: ''
-    link: ''
-    name: ''
-    u_val_link: ''
-    window_min_u_value: ''
-    zone: ''
+    link: https://up.codes/viewer/new_york_city/nyc-energy-conservation-code-2025
+    name: NYC Energy Code 2025
+    u_val_link: https://up.codes/viewer/new_york_city/nyc-energy-conservation-code-2025/chapter/C4/commercial-energy-efficiency#C402.1.2
+    window_min_u_value: https://up.codes/viewer/new_york_city/nyc-energy-conservation-code-2025/chapter/C4/commercial-energy-efficiency#C402.5
+    zone: 4(A)
   mechanical:
     erv:
-      link: ''
-      manufacturer_name: ''
-      type_name: ''
+      link: https://zehnderamerica.com/products/ventilator/comfoair-q/
+      manufacturer_name: Zehnder
+      type_name: Zehnder Q-series
   windows:
-    comfort_target_r_value: ''
-    comfort_target_u_value: ''
+    comfort_target_r_value: '6.0'
+    comfort_target_u_value: '0.167'
     ph_window_r_value: ''
     ph_window_u_value: ''

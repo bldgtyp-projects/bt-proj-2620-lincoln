@@ -1,7 +1,7 @@
 {
   "schema_version": "1.0.0",
   "phpp_version": "10.6",
-  "generated_at": "2026-09-14T19:14:41.279885Z",
+  "generated_at": "2026-09-22T17:12:58.012009Z",
   "generator": "btwr@0.0.1",
   "status": "ok",
   "variants": [
@@ -41,7 +41,7 @@
   "recommended_variant_id": "ph_windows",
   "source_workbook": {
     "path": "/Users/johnmitchell/Dropbox/bldgtyp/2620 {IA} 127 Lincoln Place/07_PHPP/2620 127 Lincoln Place.xlsx",
-    "sha256": "03efba624ad9eb099bea3cb634b58310e6ca1601c79ac64a586ea0f22b32c1bb",
-    "size_bytes": 13016000
+    "sha256": "d210020872bb9ed3eb1c1839ba1f4451949ffee3827e8f6d045a9b4ff16a4e7c",
+    "size_bytes": 13015599
   }
 }
